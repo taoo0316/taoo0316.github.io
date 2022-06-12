@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhu Wentao"
   avatar           : "profile.png"
-  bio              : "Hi there! I am Wentao"
+  bio              : "Hi there! I am Wentao, a CS student at [Yale-NUS College](https://www.yale-nus.edu.sg/)."
   location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    :
-  email            :
+  email            : "zhu.wentao@u.yale-nus.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://sg.linkedin.com/in/zhu-wentao"
   orcid            : 
   pinterest        :
   soundcloud       :
