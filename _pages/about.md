@@ -1,14 +1,4 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-🧠 Hi there, I am Wentao. I am a computer science student a Yale-NUS College, the leading liberal arts college in Asia. There, I was able to take classes across disciplines and academic traditions, which helped me become a more methodical thinker, learner and communicator.
+🧠 Hi there, I am Wentao. I am a computer science student a [Yale-NUS College](https://www.yale-nus.edu.sg/), the leading liberal arts college in Asia. There, I was able to take classes across disciplines and academic traditions, which helped me become a more methodical thinker, learner and communicator.
 
 📫 How to reach me: zhu.wentao[at]u[dot]yale-nus[dot]edu[dot]sg.
 
@@ -16,9 +6,9 @@ Check out what projects I have been up to!
 
 [NEWS]
 
-*2020.07 Enrolled in Yale-NUS College!*
+*2020.07 Enrolled in [Yale-NUS College](https://www.yale-nus.edu.sg/)!*
 
-*2019.12 Graduated from Hwa Chong Institution!*
+*2019.12 Graduated from [Hwa Chong Institution](https://www.hci.edu.sg/)!*
 
 *2015.10 Moved to Singapore!*
 
