@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, I am Wentao. I am a computer science student a [Yale-NUS College](https://www.yale-nus.edu.sg/), the leading liberal arts college in Asia. There, I was able to take classes across disciplines and academic traditions, which helped me become a more methodical thinker, learner and communicator.
+Hey! I am Wentao. I am a computer science student a [Yale-NUS College](https://www.yale-nus.edu.sg/), the leading liberal arts college in Asia. There, I was able to take classes across disciplines and academic traditions, which helped me become a more methodical thinker, learner and communicator.
 
 I will be applying for master's programs in data science/machine learning in 2024.
 
