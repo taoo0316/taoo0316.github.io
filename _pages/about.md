@@ -1,3 +1,13 @@
+---
+permalink: /
+title: 
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 🧠 Hi there, I am Wentao. I am a computer science student a [Yale-NUS College](https://www.yale-nus.edu.sg/), the leading liberal arts college in Asia. There, I was able to take classes across disciplines and academic traditions, which helped me become a more methodical thinker, learner and communicator.
 
 📫 How to reach me: zhu.wentao[at]u[dot]yale-nus[dot]edu[dot]sg.
