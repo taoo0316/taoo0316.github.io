@@ -16,7 +16,7 @@ I grew up in [Xuchang](https://en.wikipedia.org/wiki/Xuchang) and moved to the p
 
 I will be applying for master's programs in data science/machine learning in 2024.
 
-Check out what projects I have been up to!
+Check out what projects I have been up to! Also, here is a surprisingly accurate [pronounciation](https://www.howtopronounce.com/wentao) of my name if you are having trouble. 
 
 [NEWS]
 
