@@ -26,6 +26,7 @@ Check out what projects I have been up to! Also, here is a surprisingly accurate
 
 *2015.10 Moved to Singapore!*
 
+
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BFXFcN61Uys-0YXGJKGl8547HbTR1J4FroLBH-q6mso&cl=ffffff&w=a"></script>
 
 
