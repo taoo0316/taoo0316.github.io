@@ -26,7 +26,7 @@ In descending order of importance:
 
 **Don't be too hard on yourself**
 
-Some people say that part of growing up is to accept you are not as special/exceptional as you think you are. I think we all had that phase when we thought we had what it takes to really achieve something spectacular. Maybe a small part of me still believes that. Yet, life in its ups and downs has gradually revealed that I am not a particularly remarkable human being. Not that there is anything wrong with it. In fact, I'd like to think you shouldn't be too hard on yourself when confronted with that reality. Here is why: 
+Some people say that part of growing up is to accept you are not as special/exceptional as you think you are. I think we all once thought we had what it takes to really achieve something spectacular. Maybe a small part of me still believes that. Yet, life in its ups and downs has gradually revealed that I am not a particularly remarkable human being. Not that there is anything wrong with it. In fact, I'd like to think you shouldn't be too hard on yourself when confronted with that reality. Here is why: 
 
 1. The odds are often stacked against you in the first place. 
 
