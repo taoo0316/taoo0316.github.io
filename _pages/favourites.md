@@ -89,5 +89,6 @@ My favourite game is [missed messages](https://store.steampowered.com/app/812810
 
 **GRAPHIC NOVELS**
 
-My favourite graphic novel is The Art of Charlie Chan Hock Chye by [Sonny Liew](https://www.sonnyliew.com/).
+My favourite graphic novel is [The Art of Charlie Chan Hock Chye](http://artofcharliechan.com/) by [Sonny Liew](https://www.sonnyliew.com/).
 
+![image](https://user-images.githubusercontent.com/95064358/176435388-a9261b84-fae7-4428-9472-a2a55c620f4d.png)
