@@ -9,8 +9,6 @@ author_profile: true
 
 I absolutely love the colour blue. Here are some of my favourite kind of photos.
 
-![95064358](https://user-images.githubusercontent.com/95064358/176353260-b207cb1a-dbcd-4691-9845-e9ebc52213b7.jpeg)
-
 ![timg](https://user-images.githubusercontent.com/95064358/176353353-8045297a-fe22-4b77-9d56-7780bbd1a95f.jpeg)
 
 ![blue_sky_cat](https://user-images.githubusercontent.com/95064358/176353368-981f4ee3-7b19-41b6-9213-93a82dea9f84.jpg)
@@ -21,9 +19,9 @@ I am into lofi beats and music artists from Taiwan (no particular reason lol). I
 
 ![1637907541-61a07c559b5df](https://user-images.githubusercontent.com/95064358/176354622-5ba02416-0d39-4fc1-a4de-61cfc92694c1.png)
 
-https://youtu.be/QlAKZ_aaPak
+(LÜCY-HEAVEN.ZIP)[https://youtu.be/QlAKZ_aaPak]
 
-https://www.youtube.com/watch?v=JJ_Otuu5-Oo&list=LL&index=7&ab_channel=gooeygooey
+(A Taiwanese playlist for when you're feeling 'more than blue' )[https://www.youtube.com/watch?v=JJ_Otuu5-Oo&list=LL&index=7&ab_channel=gooeygooey]
 
 **Comedy**
 
