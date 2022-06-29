@@ -28,3 +28,10 @@ I am into lofi beats and music artists from Taiwan (no particular reason lol). I
 I love all sorts of comedy. My favourite comedian of all time is Norm MacDonald (RIP). 
 
 ![gettyimages-1235260889-2048x2048](https://user-images.githubusercontent.com/95064358/176353542-9e2e2d17-7edf-4a49-951a-2fe12b8ca58f.jpeg)
+
+**SHOWS**
+
+My top three favourite shows: Bojack Horseman, Rick and Morty, the Big Bang Theory.
+
+![diane-nguyen](https://user-images.githubusercontent.com/95064358/176356892-2ad53d6c-79a6-4ef8-b247-f03c2bf31aff.jpeg)
+
