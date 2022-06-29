@@ -31,7 +31,14 @@ I love all sorts of comedy. My favourite comedian of all time is Norm MacDonald 
 
 **SHOWS**
 
-My top three favourite shows: Bojack Horseman, Rick and Morty, the Big Bang Theory.
+My top three favourite shows: Bojack Horseman, Rick and Morty, and the Big Bang Theory.
 
 ![diane-nguyen](https://user-images.githubusercontent.com/95064358/176356892-2ad53d6c-79a6-4ef8-b247-f03c2bf31aff.jpeg)
+
+**FOODS**
+
+My favourite childhood dish:
+
+![aaec211b4153c264a0ec3fd2dcae5349](https://user-images.githubusercontent.com/95064358/176357182-41914459-fb77-4630-8ab0-946731cd9c50.png)
+
 
