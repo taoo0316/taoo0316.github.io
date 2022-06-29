@@ -99,4 +99,4 @@ My favourite graphic novel is [The Art of Charlie Chan Hock Chye](http://artofch
 
 **TRANSPORT**
 
-My favourite mode of transport is biking. I used to ride a bike to school everyday when I was in middle school:)
+My favourite mode of transport is biking. I used to ride a bike to school every day when I was in middle school:)
