@@ -5,6 +5,8 @@ permalink: /favourites/
 author_profile: true
 ---
 
+*Images are purely for illustration purposes. Will remove the image immediately should there be any issue with copyright.*
+
 **SIGHT**
 
 I absolutely love the colour blue. Here are some of my favourite kind of photos.
@@ -50,6 +52,13 @@ My favourite journalist to follow is [Yonden Lhatoo](https://www.scmp.com/author
 **INSTRUMENTS**
 
 My "favourite" music instrument to play is the saxophone, which is the only instrument I sort of master(ed):)
+
+**MOVIES**
+
+My favourite movie is Lost in Translation (2013).
+
+![image](https://user-images.githubusercontent.com/95064358/176360511-98944217-9c4f-40bf-8f4b-59060aaca663.png)
+
 
 
 
