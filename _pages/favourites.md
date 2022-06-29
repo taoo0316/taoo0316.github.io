@@ -43,7 +43,7 @@ My favourite childhood dish:
 
 **NEWS**
 
-My favourite journalist to follow is [Yonden Lhatoo](https://www.scmp.com/author/yonden-lhatoo) from the South China Morining Post (SCMP). 
+My favourite journalist to follow is [Yonden Lhatoo](https://www.scmp.com/author/yonden-lhatoo) from the South China Morning Post (SCMP). 
 
 ![image](https://user-images.githubusercontent.com/95064358/176358251-a67b44bc-52e3-4748-ae5c-2a34606314f8.png)
 
