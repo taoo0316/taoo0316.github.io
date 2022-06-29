@@ -80,3 +80,10 @@ My favourite decisions so far: coming to Singapore/choosing Yale-NUS College.
 My favourite documentary is [AlphaGo - The Movie](https://youtu.be/WXuK6gekU1Y) by [DeepMind](https://www.deepmind.com/).
 
 ![image](https://user-images.githubusercontent.com/95064358/176396886-92a4867d-03a9-4e74-9dc5-161cb1bd69d0.png)
+
+**GAMES**
+
+My favourite game is [missed messages](https://store.steampowered.com/app/812810/missed_messages/) by [Angela He](https://store.steampowered.com/developer/zephyo). The music and art style are absolutely stunning.
+
+![image](https://user-images.githubusercontent.com/95064358/176432360-d2d0723f-e618-4b0f-98f7-e04b18395f21.png)
+
