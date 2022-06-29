@@ -7,5 +7,5 @@ main:
   - title: "Reminders"
     url: /reminders/
 
- - title: "Favourites"
+  - title: "Favourites"
     url: /favourites/
