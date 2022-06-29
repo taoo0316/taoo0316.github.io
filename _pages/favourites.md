@@ -63,6 +63,13 @@ My favourite movie is Lost in Translation (2003).
 
 My favourite spot is currently my room at Yale-NUS College :D.
 
+**LANGUAGES**
+
+My favourite programming language is Python. My mother tongue is Mandarin Chinese. I mostly write in English now :(.
+
+![image](https://user-images.githubusercontent.com/95064358/176382182-ef45cb96-bc8b-47fc-8e5e-ba5375e289d5.png)
+
+
 
 
 
