@@ -61,7 +61,7 @@ My favourite movie is Lost in Translation (2003).
 
 **SPOT**
 
-My favourite spot is currently my room at Yale-NUS College:D.
+My favourite spot is currently my room at Yale-NUS College :D.
 
 
 
