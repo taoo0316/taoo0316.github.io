@@ -55,7 +55,7 @@ My "favourite" music instrument to play is the saxophone, which is the only inst
 
 **MOVIES**
 
-My favourite movie is Lost in Translation (2013).
+My favourite movie is Lost in Translation (2003).
 
 ![image](https://user-images.githubusercontent.com/95064358/176360511-98944217-9c4f-40bf-8f4b-59060aaca663.png)
 
