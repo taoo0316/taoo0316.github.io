@@ -5,7 +5,7 @@ permalink: /favourites/
 author_profile: true
 ---
 
-**Sight**
+**SIGHT**
 
 I absolutely love the colour blue. Here are some of my favourite kind of photos.
 
@@ -13,7 +13,7 @@ I absolutely love the colour blue. Here are some of my favourite kind of photos.
 
 ![blue_sky_cat](https://user-images.githubusercontent.com/95064358/176353368-981f4ee3-7b19-41b6-9213-93a82dea9f84.jpg)
 
-**Sound**
+**SOUND**
 
 I am into lofi beats and music artists from Taiwan (no particular reason lol). I listen to hiphop as well. 
 
@@ -23,7 +23,7 @@ I am into lofi beats and music artists from Taiwan (no particular reason lol). I
 
 [A Taiwanese playlist for when you're feeling 'more than blue'](https://www.youtube.com/watch?v=JJ_Otuu5-Oo&list=LL&index=7&ab_channel=gooeygooey)
 
-**Comedy**
+**COMEDY**
 
 I love all sorts of comedy. My favourite comedian of all time is Norm MacDonald (RIP). 
 
