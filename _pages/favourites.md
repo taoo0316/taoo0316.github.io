@@ -33,7 +33,7 @@ I love all sorts of comedy. My favourite comedian of all time is Norm MacDonald 
 
 **SHOWS**
 
-My top three favourite shows : Bojack Horseman, Rick and Morty, and the Big Bang Theory.
+My top three favourite shows: Bojack Horseman, Rick and Morty, and the Big Bang Theory.
 
 ![diane-nguyen](https://user-images.githubusercontent.com/95064358/176356892-2ad53d6c-79a6-4ef8-b247-f03c2bf31aff.jpeg)
 
@@ -71,7 +71,7 @@ My favourite programming language is Python. My mother tongue is Mandarin Chines
 
 **DECISIONS**
 
-My favourite decisions so far : coming to Singapore/choosing Yale-NUS College.
+My favourite decisions so far: coming to Singapore/choosing Yale-NUS College.
 
 ![IMG_4405](https://user-images.githubusercontent.com/95064358/176388449-47270955-bd54-461d-939f-0b6fe509314a.jpeg)
 
