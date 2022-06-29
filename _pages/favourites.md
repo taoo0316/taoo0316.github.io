@@ -75,6 +75,10 @@ My favourite decisions so far: coming to Singapore/choosing Yale-NUS College.
 
 ![IMG_4405](https://user-images.githubusercontent.com/95064358/176388449-47270955-bd54-461d-939f-0b6fe509314a.jpeg)
 
+**DOCUMENTARIES**
+
+My favourite documentary is [AlphaGo - The Movie](https://youtu.be/WXuK6gekU1Y) by [DeepMind](https://www.deepmind.com/).
+
 
 
 
