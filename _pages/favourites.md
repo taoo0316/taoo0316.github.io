@@ -100,3 +100,10 @@ My favourite graphic novel is [The Art of Charlie Chan Hock Chye](http://artofch
 **TRANSPORT**
 
 My favourite mode of transport is biking. I used to ride a bike to school every day when I was in middle school:)
+
+**WEBSITES**
+
+My favourite website is [github.com](github.com).
+
+![image](https://user-images.githubusercontent.com/95064358/176441281-0c232cd5-5153-46ce-8800-af02d39cf4fd.png)
+
