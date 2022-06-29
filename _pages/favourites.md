@@ -69,6 +69,10 @@ My favourite programming language is Python. My mother tongue is Mandarin Chines
 
 ![image](https://user-images.githubusercontent.com/95064358/176382182-ef45cb96-bc8b-47fc-8e5e-ba5375e289d5.png)
 
+**DECISIONS**
+
+My favourite decisions so far: coming to Singapore/choosing Yale-NUS College.
+
 
 
 
