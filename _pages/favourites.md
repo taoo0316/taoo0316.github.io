@@ -49,7 +49,7 @@ My favourite journalist to follow is [Yonden Lhatoo](https://www.scmp.com/author
 
 **INSTRUMENTS**
 
-My "favourite" music intrument to play is the saxophone, which is the only instrument I sort of master(ed):)
+My "favourite" music instrument to play is the saxophone, which is the only instrument I sort of master(ed):)
 
 
 
