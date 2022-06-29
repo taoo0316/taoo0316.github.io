@@ -41,4 +41,9 @@ My favourite childhood dish:
 
 ![aaec211b4153c264a0ec3fd2dcae5349](https://user-images.githubusercontent.com/95064358/176357182-41914459-fb77-4630-8ab0-946731cd9c50.png)
 
+**NEWS**
+
+My favourite journalist to follow is [Yonden Lhatoo](https://www.scmp.com/author/yonden-lhatoo) from the South China Morining Post (SCMP). 
+
+![image](https://user-images.githubusercontent.com/95064358/176358251-a67b44bc-52e3-4748-ae5c-2a34606314f8.png)
 
