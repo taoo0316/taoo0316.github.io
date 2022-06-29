@@ -7,6 +7,8 @@ author_profile: true
 
 *Images are purely for illustration purposes. Will remove the image immediately should there be any issue with copyright.*
 
+*in no particular order*
+
 **SIGHT**
 
 I absolutely love the colour blue. Here are some of my favourite kind of photos.
@@ -94,3 +96,7 @@ My favourite game is [missed messages](https://store.steampowered.com/app/812810
 My favourite graphic novel is [The Art of Charlie Chan Hock Chye](http://artofcharliechan.com/) by [Sonny Liew](https://www.sonnyliew.com/).
 
 ![image](https://user-images.githubusercontent.com/95064358/176435388-a9261b84-fae7-4428-9472-a2a55c620f4d.png)
+
+**TRANSPORT**
+
+My favourite mode of transport is biking. I used to ride a bike to school everyday when I was in middle school:)
