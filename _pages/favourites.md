@@ -59,6 +59,10 @@ My favourite movie is Lost in Translation (2003).
 
 ![image](https://user-images.githubusercontent.com/95064358/176360511-98944217-9c4f-40bf-8f4b-59060aaca663.png)
 
+**SPOT**
+
+My favourite spot is currently my room at Yale-NUS College:D.
+
 
 
 
