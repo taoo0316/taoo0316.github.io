@@ -107,3 +107,7 @@ My favourite website is [GitHub](https://github.com/taoo0316).
 
 ![image](https://user-images.githubusercontent.com/95064358/176441281-0c232cd5-5153-46ce-8800-af02d39cf4fd.png)
 
+**POSSESSIONS**
+
+My favourite possession is my Xiaomi monitor. I cannot live without it:)
+
