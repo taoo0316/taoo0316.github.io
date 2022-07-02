@@ -5,10 +5,6 @@ permalink: /favourites/
 author_profile: true
 ---
 
-pn.pane.HTML('''<div style="width:150px;height:150px;line-height:3em;overflow:scroll;padding:5px;">
-This 'div' element uses 'overflow:scroll' to create scrollbars. 
-</div>''')
-
 *Images are purely for illustration purposes. Will remove the image immediately should there be any issue with copyright.*
 
 *In No Particular Order:*
