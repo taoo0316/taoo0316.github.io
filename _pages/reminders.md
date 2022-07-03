@@ -48,6 +48,8 @@ This is one of the many reasons why I avoided attending a British university. I 
 
 Nonetheless, I do feel that it is important to become better at this. A lot of times life trajectories are determined by one critical shot rather than continuous efforts. One way is to become more confident of my own abilities, and another is to learn more systematically and internalise the big picture.
 
+提升临门一脚的能力，很难，因为这确实不太符合我的脾性。但这有可能很重要。
+
 
 
  
