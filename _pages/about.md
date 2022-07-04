@@ -18,6 +18,10 @@ I will be applying for master's programs in data science/machine learning in 202
 
 Check out what projects I have been up to! Also, here is a surprisingly accurate [pronunciation](https://www.howtopronounce.com/wentao) of my name if you are having trouble. 
 
+**What I can do for you**
+
+I am deeply interested in making data useful for industry needs and researchers alike. This means cleaning the data, feature engineering, building machine learning models/pipelines, making queries from databases or developing impactful visualisation. 
+
 [NEWS]
 
 *2020.07 Enrolled in [Yale-NUS College](https://www.yale-nus.edu.sg/)!*
