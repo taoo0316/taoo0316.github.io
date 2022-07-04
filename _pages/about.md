@@ -16,7 +16,7 @@ I grew up in [Xuchang](https://en.wikipedia.org/wiki/Xuchang) and moved to the p
 
 ![image](https://user-images.githubusercontent.com/95064358/177197685-5e4efc39-7f53-475a-892a-116de039b8f8.png)
 
-Fun fact: My hometown was the warlord Cao Cao's de facto capital during the late Eastern Han Dynasty. It is also now a world-renowned manufacturing centre for wigs and hair extensions.
+*Fun fact: My hometown was the warlord Cao Cao's de facto capital during the late Eastern Han Dynasty. It is also now a world-renowned manufacturing centre for wigs and hair extensions.*
 
 I will be applying for master's programs in data science/machine learning in 2024.
 
