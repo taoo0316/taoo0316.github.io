@@ -42,7 +42,7 @@ Here is an entry as a reminder to accept my own limitations:)
 
 **提升临门一脚的能力**
 
-I have never had any trouble with continuous assessments in school. Even for semi-important examinations (e.g. prelims and promos in JC), my grades were always stellar. However, I never scored particularly well on any big examination (e.g. O/A Levels). I think this stems from the fact that I tend to revise excessively to retain small chunks of information, which serves me well in small assessments but not big examinations. I am also not a very confident person, which is not exactly great for highly stressful situations. 
+I have never had any trouble with continuous assessments in school. Even for semi-important examinations (e.g. prelims and promos in JC), my grades were always stellar. However, I never scored particularly well on any big examination (e.g. O/A Levels). 
 
 This is one of the many reasons why I avoided attending a British university. I am not good at taking final exams. 我不是个能憋大招的人。
 
