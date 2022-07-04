@@ -5,15 +5,15 @@ permalink: /experiences/
 author_profile: true
 ---
 
-**YALE-NUS COLLEGE**
+**[YALE-NUS COLLEGE](https://www.yale-nus.edu.sg/)**
 
 *Research Intern 2022.05 - 2022.07*
 
 - Developed models for metabolic processes in plants using cobrapy and its extension scobra
 - Wrote Python scripts to automate testing on products generated from genome-scale metabolic models
-- Verified and improved models by comparing with empirical data and existing literature
+- Verified and improved models by comparing them with empirical data and existing literature
 
-**INDUSTRIAL SYSTEMS ENGINEERING AND MANAGEMENT, NUS**
+**[INDUSTRIAL SYSTEMS ENGINEERING AND MANAGEMENT, NUS](https://cde.nus.edu.sg/isem/)***
 
 *Data Science Intern 2021.11 - 2022.01*
 
