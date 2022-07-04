@@ -3,6 +3,9 @@ main:
 
   - title: "Awards"
     url: /awards/
+    
+  - title: "Experiences"
+    url: /experiences/
   
   - title: "Reminders"
     url: /reminders/
