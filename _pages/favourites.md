@@ -7,7 +7,6 @@ author_profile: true
 
 *Images are purely for illustration purposes. Will remove the image immediately should there be any issue with copyright.*
 
-*In No Particular Order:*
 
 **SIGHT**
 
