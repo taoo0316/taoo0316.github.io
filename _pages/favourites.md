@@ -5,7 +5,7 @@ permalink: /favourites/
 author_profile: true
 ---
 
-*Images are purely for illustration purposes. Will remove the image immediately should there be any issue with copyright.*
+```Images are purely for illustration purposes. Contact me should there be any issue with copyright.```
 
 
 **SIGHT**
