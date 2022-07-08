@@ -52,7 +52,7 @@ My favourite journalist to follow is [Yonden Lhatoo](https://www.scmp.com/author
 
 **INSTRUMENTS**
 
-My "favourite" music instrument to play is the saxophone, which is the only instrument I sort of master(ed):)
+My "favourite" music instrument to play is the saxophone, which is the only instrument I sort of master(ed) :).
 
 **MOVIES**
 
@@ -93,7 +93,7 @@ My favourite graphic novel is [The Art of Charlie Chan Hock Chye](http://artofch
 
 **TRANSPORT**
 
-My favourite mode of transport is biking. I used to ride a bike to school every day when I was in middle school:)
+My favourite mode of transport is biking. I used to ride a bike to school every day when I was in middle school :).
 
 **WEBSITES**
 
@@ -103,5 +103,5 @@ My favourite website is [GitHub](https://github.com/taoo0316).
 
 **POSSESSIONS**
 
-My favourite possession is my Xiaomi monitor. I cannot live without it:)
+My favourite possession is my Xiaomi monitor. I cannot live without it.
 
