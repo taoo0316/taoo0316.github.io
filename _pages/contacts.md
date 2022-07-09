@@ -5,10 +5,13 @@ permalink: /contacts/
 author_profile: true
 ---
 
-h1 User Information
+{::nomarkdown}
+<form action="http://formspree.io/moqeoggo method="POST">
+  <input type="email" name="_replyto">
+  <textarea   name="body"></textarea>
+  <input type="submit" value="Send">
+</form>
 
-form(action='/save')
-  input(name='name')
-  input(name='email')
-  input(type='submit', value='Save')
+
+{:/nomarkdown}
 
