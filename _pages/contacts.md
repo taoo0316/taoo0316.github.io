@@ -5,17 +5,7 @@ permalink: /contacts/
 author_profile: true
 ---
 
-  <section id="contact" class="home-section wg-contact   "  >
-    <div class="container">
-      
-
-
-
-
-
-<div class="row contact-widget">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Contact</h1>
+     
     
   </div>
   <div class="col-12 col-lg-8">
@@ -46,4 +36,3 @@ author_profile: true
       </li>
       
 
-    </ul>
