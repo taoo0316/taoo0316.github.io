@@ -1,3 +1,10 @@
+---
+layout: archive
+permalink: /contacts/
+title: "Contacts"
+author_profile: true
+---
+
 <?php
 if (isset($_POST['Email'])) {
 
