@@ -7,7 +7,7 @@ author_profile: true
 
      
     
-  </div>
+
   <div class="col-12 col-lg-8">
     
 
@@ -23,10 +23,10 @@ author_profile: true
   
       
       
-        <li>
-          <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-          <span id="person-address">10 College Ave West<br>#01-101 138609/span>
-               </li>
+      <li>
+         <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
+         <span id="person-address">10 College Ave West<br>#01-101 138609</a>/span>
+      </li>
        
         
       
