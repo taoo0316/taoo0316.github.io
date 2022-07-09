@@ -24,6 +24,7 @@ In descending order of importance:
 5. To secure admission into graduate programs/employment.
  
 
+
 **Don't be too hard on yourself**
 
 Some people say that part of growing up is to accept you are not as special/exceptional as you think you are. I think we all once thought we had what it takes to really achieve something spectacular. Maybe a small part of me still believes that. Yet, life in its ups and downs has gradually revealed that I am not a particularly remarkable human being. Not that there is anything wrong with it. In fact, I'd like to think you shouldn't be too hard on yourself when confronted with that reality. Here is why: 
@@ -39,6 +40,7 @@ Some people say that part of growing up is to accept you are not as special/exce
 5. We are all gonna die. Come on :).
 
 Here is an entry as a reminder to accept my own limitations :).
+
 
 
 **提升临门一脚的能力**
