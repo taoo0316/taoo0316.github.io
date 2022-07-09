@@ -23,7 +23,6 @@ In descending order of importance:
 
 5. To secure admission into graduate programs/employment.
  
-- - -
 
 **Don't be too hard on yourself**
 
@@ -41,7 +40,6 @@ Some people say that part of growing up is to accept you are not as special/exce
 
 Here is an entry as a reminder to accept my own limitations :).
 
-- - -
 
 **提升临门一脚的能力**
 
