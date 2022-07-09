@@ -12,3 +12,6 @@ main:
 
   - title: "Favourites"
     url: /favourites/
+    
+  - title: "Contacts"
+    url: /contacts/
