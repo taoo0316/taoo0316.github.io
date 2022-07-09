@@ -85,9 +85,9 @@ My favourite game is [missed messages](https://store.steampowered.com/app/812810
   <img src="https://user-images.githubusercontent.com/95064358/176432360-d2d0723f-e618-4b0f-98f7-e04b18395f21.png" />
 </p>
 
-**GRAPHIC NOVELS**
+**CLASSES**
 
-My favourite graphic novel is [The Art of Charlie Chan Hock Chye](http://artofcharliechan.com/) by [Sonny Liew](https://www.sonnyliew.com/).
+My favourite class in college is Literature and Humanities 2, part of Yale-NUS College's Common Curriculum. You can find some of the texts we read [here](https://www.yale-nus.edu.sg/academics/overview/common-curriculum/literature-and-humanities-1-and-2/).
 
 ![image](https://user-images.githubusercontent.com/95064358/176435388-a9261b84-fae7-4428-9472-a2a55c620f4d.png)
 
