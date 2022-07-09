@@ -4,21 +4,113 @@ title: "Contacts"
 permalink: /contacts/
 author_profile: true
 ---
-Contact me by filling in the form below!
+
+  <section id="contact" class="home-section wg-contact   "  >
+    <div class="container">
+      
 
 
-<form name="contact" method="POST" netlify>
-  <div class="form-group">
-    <label for="email"><h5 class="no-anchor">Email address</h5></label>
-    <input type="email" class="form-control form-control-lg" name="email" id="email" aria-describedby="emailHelp">
-    <small id="emailHelp" class="form-text text-muted">Your email address will not be shared with anyone else.</small>
+
+
+
+<div class="row contact-widget">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Contact</h1>
+    
   </div>
-  <div class="form-group">
-    <label for="message"><h5 class="no-anchor">Message</h5></label>
-    <textarea class="form-control form-control-lg" name="message" id="message" rows="3" style="height:200px;"></textarea>
-  </div>
-  <button type="submit" class="btn btn-primary">Submit</button>
-</form>
+  <div class="col-12 col-lg-8">
+    
 
+    
 
-Alternatively, you can email me directly.
+    <ul class="fa-ul">
+
+      
+      <li>
+        <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
+        <span id="person-email"><a href="mailto:remi.sharrock@telecom-paris.fr">remi.sharrock@telecom-paris.fr</a></span>
+      </li>
+      
+
+      
+      <li>
+        <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
+        <span id="person-telephone"><a href="tel:&#43;33175319807">&#43;33175319807</a></span>
+      </li>
+      
+
+      
+      
+        
+        <li>
+          <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
+          <span id="person-address">19 Place Marguerite Perey<br>91120 Palaiseau</span>
+        </li>
+      
+
+      
+      <li>
+        <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
+        <span>4D28 : go to main elevators, Level 4, Enter Building D and at the end of the corridor, to the right</span>
+      </li>
+      
+
+      
+
+      
+      <li>
+        <i class="fa-li fas fa-calendar-check fa-2x" aria-hidden="true"></i>
+        <a href="http://z.mines-telecom.fr/home/sharrock@enst.fr?fmt=freebusy" target="_blank" rel="noopener">Book an appointment</a>
+      </li>
+      
+
+      
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <i class="fa-li fab fa-twitter fa-2x" aria-hidden="true"></i>
+        <a href="https://twitter.com/remisharrock" target="_blank" rel="noopener">DM Me</a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      <li>
+        <i class="fa-li fab fa-skype fa-2x" aria-hidden="true"></i>
+        <a href="skype:live:remi.sharrock?call" >Skype Me</a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <i class="fa-li fab fa-telegram fa-2x" aria-hidden="true"></i>
+        <a href="https://t.me/remisharrock" target="_blank" rel="noopener">Telegram Me</a>
+      </li>
+      
+
+    </ul>
