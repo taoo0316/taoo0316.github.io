@@ -28,7 +28,7 @@ Check out what projects I have been up to! Also, here is a surprisingly accurate
 
 ```I also follow the latest advancements in artificial intelligence research, such as computer vision and natural language processing. I am trying to get involved in the open-source community as well. You can find some of my projects on GitHub.```
 
-[NEWS]
+**[NEWS]**
 
 *2020.07 Enrolled in [Yale-NUS College](https://www.yale-nus.edu.sg/)!*
 
