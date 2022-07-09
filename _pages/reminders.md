@@ -23,6 +23,7 @@ In descending order of importance:
 
 5. To secure admission into graduate programs/employment.
  
+--
 
 **Don't be too hard on yourself**
 
@@ -36,9 +37,11 @@ Some people say that part of growing up is to accept you are not as special/exce
  
 4. It's not healthy to dwell on comparisons.
 
-5. We are all gonna die. Come on:)
+5. We are all gonna die. Come on :).
 
-Here is an entry as a reminder to accept my own limitations:)
+Here is an entry as a reminder to accept my own limitations :).
+
+--
 
 **提升临门一脚的能力**
 
