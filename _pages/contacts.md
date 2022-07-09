@@ -4,6 +4,8 @@ title: "Contacts"
 permalink: /contacts/
 author_profile: true
 ---
+Contact me by filling in the form below!
+
 
 <form name="contact" method="POST" netlify>
   <div class="form-group">
@@ -19,4 +21,4 @@ author_profile: true
 </form>
 
 
-Alternatively, you can [email](zhu.wentao@u.yale-nus.edu.sg) directly.
+Alternatively, you can email me directly.
