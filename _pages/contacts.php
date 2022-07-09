@@ -8,13 +8,13 @@ author_profile: true
 <?php
 if (isset($_POST['Email'])) {
 
-    // EDIT THE FOLLOWING TWO LINES:
+    // EDIT THE 2 LINES BELOW AS REQUIRED
     $email_to = "zhu.wentao@u.yale-nus.edu.sg";
-    $email_subject = "New feedback";
+    $email_subject = "New form submissions";
 
     function problem($error)
     {
-        echo "We're sorry, but there were error(s) found with the form you submitted. ";
+        echo "We are very sorry, but there were error(s) found with the form you submitted. ";
         echo "These errors appear below.<br><br>";
         echo $error . "<br><br>";
         echo "Please go back and fix these errors.<br><br>";
@@ -27,7 +27,7 @@ if (isset($_POST['Email'])) {
         !isset($_POST['Email']) ||
         !isset($_POST['Message'])
     ) {
-        problem('We're sorry, but there appears to be a problem with the form you submitted.');
+        problem('We are sorry, but there appears to be a problem with the form you submitted.');
     }
 
     $name = $_POST['Name']; // required
@@ -74,9 +74,9 @@ if (isset($_POST['Email'])) {
     @mail($email_to, $email_subject, $email_message, $headers);
 ?>
 
-    <!-- INCLUDE YOUR SUCCESS MESSAGE BELOW -->
+    <!-- include your success message below -->
 
-    Thanks for getting in touch. I will get back to you soon.
+    Thank you for contacting me. I will be in touch with you very soon.
 
 <?php
 }
