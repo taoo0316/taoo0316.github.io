@@ -20,7 +20,7 @@ I absolutely love the colour blue. Here are some of my favourite kind of photos.
 
 I am into lofi beats and music artists from Taiwan (no particular reason lol). I listen to hip-hop as well. 
 
-![1637907541-61a07c559b5df](https://user-images.githubusercontent.com/95064358/176354622-5ba02416-0d39-4fc1-a4de-61cfc92694c1.png)
+![image](https://user-images.githubusercontent.com/95064358/178117085-fa587848-4137-4265-8572-4bd90e8c7577.png)
 
 [LÜCY-HEAVEN.ZIP](https://youtu.be/QlAKZ_aaPak)
 
