@@ -39,5 +39,7 @@ Check out what projects I have been up to! Also, here is a surprisingly accurate
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BFXFcN61Uys-0YXGJKGl8547HbTR1J4FroLBH-q6mso&cl=ffffff&w=a"></script>
 
+```I try to keep this site accurate and updated as much as possible. Nonetheless, contact me if you find anything is amiss.```
+
 
 
