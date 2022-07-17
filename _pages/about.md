@@ -46,4 +46,5 @@ Check out what projects I have been up to! Also, here is a surprisingly accurate
 I also have a terminal website deployed by Vercel, check it out [here](https://live-term-taoo0316.vercel.app/).
 
 
+![Screenshot 2022-07-18 at 1 22 53 AM](https://user-images.githubusercontent.com/95064358/179417410-47c0a745-4f91-430b-9bd3-822ea602d6ac.png)
 
