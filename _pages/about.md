@@ -43,7 +43,7 @@ Check out what projects I have been up to! Also, here is a surprisingly accurate
 ```I try to keep this site accurate and updated as much as possible. Nonetheless, contact me if you find anything is amiss.```
 
 
-I also have a terminal website built with LiveTerm and deployed by Vercel, check it out [here](https://live-term-taoo0316.vercel.app/).
+I also have a terminal website built with [LiveTerm](https://github.com/Cveinnt/LiveTerm) and deployed by [Vercel](https://vercel.com). Check it out [here](https://live-term-taoo0316.vercel.app/).
 
 ![Screenshot 2022-07-18 at 1 37 53 AM](https://user-images.githubusercontent.com/95064358/179417906-2a1d9ecb-f75a-402c-a835-12e55c010e52.png)
 
