@@ -43,4 +43,7 @@ Check out what projects I have been up to! Also, here is a surprisingly accurate
 ```I try to keep this site accurate and updated as much as possible. Nonetheless, contact me if you find anything is amiss.```
 
 
+I also have a terminal website deployed by Vercel, check it out [here](https://live-term-taoo0316.vercel.app/).
+
+
 
