@@ -47,3 +47,9 @@ I also have a terminal website built with [LiveTerm](https://github.com/Cveinnt/
 
 ![Screenshot 2022-07-18 at 1 37 53 AM](https://user-images.githubusercontent.com/95064358/179417906-2a1d9ecb-f75a-402c-a835-12e55c010e52.png)
 
+<form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
+<input name="sitesearch" type="hidden" value="https://taoo0316.github.io/">
+<input autocomplete="on" class="form-control search" name="q" placeholder="Search in example.com" required="required"  type="text">
+<button class="button" type="submit">Search</button>
+</form>
+
