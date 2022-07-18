@@ -10,11 +10,13 @@ redirect_from:
 
 <style>body {text-align: justify}</style>
 
+
 <form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
 <input name="sitesearch" type="hidden" value="https://taoo0316.github.io/">
 <input autocomplete="on" class="form-control search" name="q" placeholder="Search in https://taoo0316.github.io/" required="required"  type="text">
 <button class="button" type="submit">Search</button>
 </form>
+
 
 👋 Hey! I am Wentao, a computer science student at [Yale-NUS College](https://www.yale-nus.edu.sg/), the leading liberal arts college in Asia. There, I was able to take classes across disciplines and academic traditions, which helped me become a more methodical thinker, learner and communicator.
 
