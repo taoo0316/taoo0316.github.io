@@ -10,6 +10,12 @@ redirect_from:
 
 <style>body {text-align: justify}</style>
 
+<form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
+<input name="sitesearch" type="hidden" value="https://taoo0316.github.io/">
+<input autocomplete="on" class="form-control search" name="q" placeholder="Search in https://taoo0316.github.io/" required="required"  type="text">
+<button class="button" type="submit">Search</button>
+</form>
+
 👋 Hey! I am Wentao, a computer science student at [Yale-NUS College](https://www.yale-nus.edu.sg/), the leading liberal arts college in Asia. There, I was able to take classes across disciplines and academic traditions, which helped me become a more methodical thinker, learner and communicator.
 
 I grew up in [Xuchang](https://en.wikipedia.org/wiki/Xuchang) and moved to the provincial capital [Zhengzhou](https://en.wikipedia.org/wiki/Zhengzhou) when I was 12. At age 15, I boarded my first international flight and moved to the [little red dot](https://en.wikipedia.org/wiki/Little_red_dot) with the generous support of Singapore's Ministry of Education. 
@@ -47,9 +53,4 @@ I also have a terminal website built with [LiveTerm](https://github.com/Cveinnt/
 
 ![Screenshot 2022-07-18 at 1 37 53 AM](https://user-images.githubusercontent.com/95064358/179417906-2a1d9ecb-f75a-402c-a835-12e55c010e52.png)
 
-<form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
-<input name="sitesearch" type="hidden" value="https://taoo0316.github.io/">
-<input autocomplete="on" class="form-control search" name="q" placeholder="Search in example.com" required="required"  type="text">
-<button class="button" type="submit">Search</button>
-</form>
 
