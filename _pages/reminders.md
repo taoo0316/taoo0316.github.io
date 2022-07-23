@@ -47,7 +47,7 @@ Here is an entry as a reminder to accept my own limitations :).
 
 I have never had any trouble with continuous assessments in school. Even for semi-important examinations (e.g. prelims and promos in JC), my grades were always stellar. However, I never scored particularly well on any big examination (e.g. O/A Levels). 
 
-This is one of the many reasons why I avoided attending a British university. I am not good at taking final exams. 我不是个能憋大招的人。
+This is one of the many reasons why I avoided attending a British university. I am not good at taking final exams. 
 
 Nonetheless, I do feel that it is important to become better at this. A lot of times life trajectories are determined by one critical shot rather than continuous efforts. One way is to become more confident in my own abilities, and another is to learn more systematically and internalise the big picture.
 
