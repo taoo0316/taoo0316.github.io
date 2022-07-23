@@ -61,7 +61,7 @@ By being famous, I mean being recognised by the average person when you walk on 
 
 I am a very private person, and I do not enjoy unwarranted attention. As such, being famous means I have to use up quite a bit of my social energy, which is detrimental to my happiness. 
 
-Moreover, being famous is not equivalent to being exceptional. I have had the privilege to study under many incredibly accomplished professors in college. Yet, I do not think they fall into the definition of "being famous" laid out above. 
+Moreover, being famous is not equivalent to being exceptional. For instance, I have had the privilege to study under many incredibly accomplished professors in college. Yet, I do not think they fall into the definition of "being famous" laid out above. 
 
 This entry is a reminder for me to not actively look for such fame. 
 
