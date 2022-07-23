@@ -53,6 +53,22 @@ Nonetheless, I do feel that it is important to become better at this. A lot of t
 
 提升临门一脚的能力，很难，因为这确实不太符合我的脾性。但这有可能很重要。
 
+**Why it is a bad idea to be famous**
+
+It is a bad idea to be famous, for me at least. 
+
+By being famous, I mean being recognised by the average person when you walk on the street. The average person is not someone you usually interact with. It is someone who lives in your city but is reasonably distant from your social circle. 
+
+I am a very private person, and I do not enjoy unwarranted attention. As such, being famous means I have to use up quite a bit of my social energy, which is detrimental to my happiness. 
+
+Moreover, being famous is not equivalent to being exceptional. I have had the privilege to study under many incredibly accomplished professors in university. Yet, I do not think they fall into the definition of "being famous" laid out above. 
+
+This entry is a reminder for me to not actively look for such fame. 
+
+
+
+
+
 
 
  
