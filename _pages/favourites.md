@@ -115,7 +115,9 @@ This was taken in Ruili One Tree Forest in Yunnan.
 
 **ML/AI**
 
-My favourite person(s) in the field of ML/AI are Cassie Kozyrkov and Demis Hassabis. Well, there are a lot more. They all inspire me to work harder to become better :).
+My favourite person(s) in the field of ML/AI are Cassie Kozyrkov and Demis Hassabis. 
+
+Well, there are a lot more. I chose these two because of their interdisciplinary background. They all inspire me to work harder to become better :).
 
 ![image](https://user-images.githubusercontent.com/95064358/181595865-074c2818-ac7f-4935-958f-32b684d96461.png)
 
