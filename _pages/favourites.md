@@ -113,5 +113,9 @@ My favourite photo of myself:
 
 This was taken in Ruili One Tree Forest in Yunnan.
 
+**ML/AI**
+
+My favourite person(s) in the field of ML/AI is Cassie Kozyrkov and Demis Hassabis.
+
 
 
