@@ -30,7 +30,7 @@ Check out what projects I have been up to! Also, here is a surprisingly accurate
 
 **```What I Can Do```**
 
-```I am deeply interested in making data useful for industry needs and researchers alike. This means making queries from databases, cleaning the data, feature engineering, building machine learning models/pipelines, or developing impactful visualisation.```
+```I am deeply interested in making data useful for industry needs and researchers alike (inspired by my favourite data scientist Cassie Kozyrkov). This means making queries from databases, cleaning the data, feature engineering, building machine learning models/pipelines, or developing impactful visualisation.```
 
 ```I also follow the latest advancements in artificial intelligence research, such as computer vision and natural language processing. I am trying to get involved in the open-source community as well. You can find some of my projects on GitHub.```
 
