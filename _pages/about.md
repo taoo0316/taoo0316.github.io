@@ -38,7 +38,7 @@ I also follow the latest advancements in artificial intelligence research, such 
 
 **```Future Plans```**
 
-I am keen to explore the [intersection](https://scholar.google.com/citations?user=9NkngDMAAAAJ&hl=en) between the humanities and technology. If I have the bandwidth for a PhD in the future, it is something I would love to get into! That is a story for another day, though :).
+I am keen to explore the [intersection](https://scholar.google.com/citations?user=9NkngDMAAAAJ&hl=en) between the humanities and technology. **If** I have the bandwidth for a PhD in the future, it is something I would love to get into! That is a story for another day, though :).
 
 **[NEWS]**
 
