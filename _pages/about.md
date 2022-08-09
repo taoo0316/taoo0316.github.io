@@ -34,6 +34,8 @@ I learned from a [CS department](https://www.yale-nus.edu.sg/mcs/) with a heavy 
 
 I am deeply interested in making data useful for industry needs and researchers alike (inspired by my favourite data scientist Cassie Kozyrkov). This means making queries from databases, cleaning the data, feature engineering, building machine learning models/pipelines, or developing impactful visualisation.
 
+My short-term goal is to start a data science career based in Singapore.
+
 **```Future Plans```**
 
 I am keen to explore the [intersection](https://scholar.google.com/citations?user=9NkngDMAAAAJ&hl=en) between the humanities and technology. **If** I have the bandwidth for a PhD in the future, it is something I would love to get into! That is a story for another day, though :).
