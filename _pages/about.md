@@ -38,7 +38,7 @@ My short-term goal is to start a data science career based in Singapore.
 
 **```Future Plans```**
 
-I am keen to explore the [intersection](https://en.wikipedia.org/wiki/Computational_social_science#:~:text=Computational%20social%20science%20is%20the,simulate%2C%20and%20analyze%20social%20phenomena.) between the humanities and technology. While I do not plan on going to academia currently, **if** I have the bandwidth for a PhD in the future, it is something I would love to get into! That is a story for another day, though :).
+I am keen to explore the intersection between the humanities and technology. While I do not plan on going to academia currently, **if** I have the bandwidth for a PhD in the future, it is something I would love to get into! That is a story for another day, though :).
 
 **[NEWS]**
 
