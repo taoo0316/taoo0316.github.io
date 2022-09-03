@@ -31,7 +31,7 @@ Check out what projects I have been up to! Also, here is a surprisingly accurate
 
 **```What I Can Do```**
 
-I learned from a [CS department](https://www.yale-nus.edu.sg/mcs/) with a heavy emphasis on functional programming, especially the use of [OCaml](https://ocaml.org/).
+I learned from a [CS department](https://en.wikipedia.org/wiki/Olivier_Danvy) with a heavy emphasis on functional programming, especially the use of [OCaml](https://ocaml.org/).
 
 I am deeply interested in making data useful for industry needs and researchers alike (inspired by my favourite data scientist Cassie Kozyrkov). This means making queries from databases, cleaning the data, feature engineering, building machine learning models/pipelines, or developing impactful visualisation.
 
