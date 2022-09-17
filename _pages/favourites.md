@@ -125,7 +125,7 @@ Well, there are a lot more. I chose these two because of their interdisciplinary
 
 **COLLEGE**
 
-My proudest achievement in college is to co-run the Mocktant, a satirical news publication based in Yale-NUS College. We are one of the most popular news sources at the College, and our [telegram channel] (https://t.me/themocktant) has over 1000 followers to date. 
+My proudest achievement in college is to co-run the Mocktant, a satirical news publication based in Yale-NUS College. We are one of the most popular news sources at the College, and our [telegram channel](https://t.me/themocktant) has over 1000 followers to date. 
 
 ![Screenshot 2022-09-17 at 1 35 28 PM](https://user-images.githubusercontent.com/95064358/190842202-5dfa543c-ffc9-4180-9478-5982309690be.png)
 
