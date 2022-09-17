@@ -7,7 +7,7 @@ author_profile: true
 
 ```Images are purely for illustration purposes. Contact me should there be any issue with copyright.```
 
-```The list is not in any particular 'order', in every sense of the word.```
+```The list is not in any particular 'order', in case you are looking for some.```
 
 
 **SIGHT**
