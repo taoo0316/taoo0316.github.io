@@ -43,6 +43,8 @@ I am keen to explore the intersection between the humanities and technology. Whi
 
 **[NEWS]**
 
+*2023.01 Fun Semester at [Aalto University](https://www.aalto.fi/en)!*
+
 *2020.07 Enrolled in [Yale-NUS College](https://www.yale-nus.edu.sg/)!*
 
 *2019.12 Graduated from [Hwa Chong Institution](https://www.hci.edu.sg/)!*
