@@ -55,7 +55,7 @@ I also have a terminal website built with [LiveTerm](https://github.com/Cveinnt/
 
 ![Screenshot 2022-07-18 at 1 37 53 AM](https://user-images.githubusercontent.com/95064358/179417906-2a1d9ecb-f75a-402c-a835-12e55c010e52.png)
 
-To reach me quickly, find me on [Telegram](t.me/taoo0316)!
+To reach me quickly, find me on [Telegram](https://t.me/taoo0316)!
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BFXFcN61Uys-0YXGJKGl8547HbTR1J4FroLBH-q6mso&cl=ffffff&w=a"></script>
 
