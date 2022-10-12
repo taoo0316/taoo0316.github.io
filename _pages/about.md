@@ -17,7 +17,7 @@ redirect_from:
 <style>body {text-align: justify}</style>
 
 
-👋 Hey! I am Wentao, a computer science student at [Yale-NUS College](https://www.yale-nus.edu.sg/), the leading liberal arts college in Asia. There, I was able to take classes across disciplines and academic traditions, which helped me become a more methodical thinker, learner and communicator.
+👋 Hey! I am Wentao, an MCS student at [Yale-NUS College](https://www.yale-nus.edu.sg/), the leading liberal arts college in Asia. There, I was able to take classes across disciplines and academic traditions, which helped me become a more methodical thinker, learner and communicator.
 
 I grew up in [Xuchang](https://en.wikipedia.org/wiki/Xuchang) and moved to the provincial capital [Zhengzhou](https://en.wikipedia.org/wiki/Zhengzhou) when I was 12. At age 15, I boarded my first international flight and moved to the [little red dot](https://en.wikipedia.org/wiki/Little_red_dot) with the generous support of Singapore's Ministry of Education. 
 
