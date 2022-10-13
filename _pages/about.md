@@ -39,7 +39,7 @@ My short-term goal is to start a data science career based in Singapore.
 
 **```Future Plans```**
 
-I am keen to explore the intersection between the humanities and technology, for example ethical AI. While I do not plan on going to academia currently, **if** I have the bandwidth for a PhD in the future, it is something I would love to get into! That is a story for another day, though :).
+I am keen to explore a field grounded in sound technical knowledge **and** located at the intersection between the humanities and technology. The search for such a field is an ongoing process. Alas, that is a story for another day.
 
 **[NEWS]**
 
