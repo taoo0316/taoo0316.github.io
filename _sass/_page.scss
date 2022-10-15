@@ -399,3 +399,21 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+body {
+  background-color: whitesmoke;
+}
+
+.title {
+  color: midnightblue;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: midnightblue;
+  }
+
+  .title {
+    color: whitesmoke;
+  }
+}
