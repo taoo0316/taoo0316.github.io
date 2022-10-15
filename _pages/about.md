@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**Search something on Google, the world's most powerful search engine :D**
+
 <form method="GET" action="https://www.google.com/search">
     <input name="q" type="text">
     <input type="submit">
