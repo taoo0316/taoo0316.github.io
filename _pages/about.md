@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
-<input name="sitesearch" type="hidden" value="https://taoo0316.github.io/">
-<input autocomplete="on" class="form-control search" name="q" placeholder="Search in https://taoo0316.github.io/" required="required"  type="text">
-<button class="button" type="submit">Search</button>
+<form method="GET" action="https://www.google.com/search">
+    <input name="q" type="text">
+    <input type="submit">
 </form>
 
 <style>body {text-align: justify}</style>
