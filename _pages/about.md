@@ -38,9 +38,11 @@ I am deeply interested in making data useful for industry needs and researchers 
 
 My short-term goal is to start a data science career based in Singapore.
 
-**```Future Plans```**
+**```Future Plans```** ```No Promises```
 
-I am keen to explore a field grounded in sound technical knowledge **and** located at the intersection between the humanities and technology. The search for such a field is an ongoing process. Alas, that is a story for another day.
+- I am keen to explore a field grounded in sound technical knowledge **and** located at the intersection between the humanities and technology. The search for such a field is an ongoing process.
+
+- Believe it or not, I also plan on writing on a book at some point in my life. It will be a science fiction about migration, languages, computer science and something else. As you can tell, it is still a very rough idea. 
 
 **[NEWS]**
 
