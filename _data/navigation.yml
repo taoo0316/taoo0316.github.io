@@ -12,4 +12,6 @@ main:
 
   - title: "Favourites"
     url: /favourites/
-   
+    
+  - title: "Plans"
+    url: /plans/
