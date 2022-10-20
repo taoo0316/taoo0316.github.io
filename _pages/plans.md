@@ -13,4 +13,4 @@ author_profile: true
 
 - *I would love to get a cat and name him/her/they "kingfisher". If you know, you know.*
 
-- *It would be lovely to spend a prolonged period of time in Hong Kong, a city that always fascinated me.*
+- *It would be lovely to spend a prolonged period of time in Hong Kong, Tokyo, etc., cities that always fascinated me.*
