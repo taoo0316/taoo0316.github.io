@@ -122,6 +122,14 @@ Well, there are a lot more. I chose these two because of their interdisciplinary
 
 ![image](https://user-images.githubusercontent.com/95064358/181595997-03dee59e-2891-4f51-8750-aaff7659dd3d.png)
 
+**HIGH SCHOOL**
+
+![graduation](https://user-images.githubusercontent.com/95064358/197404465-6073a6f1-39ef-4735-9750-3904cc6645e0.jpg)
+
+The photo of my high school graduation! 
+
+Standing beside me is Ms. Yan Youyu, my form teacher and Mathematics teacher, both H2 and H3! She was the recipient of the Lee Kuan Yew Gold Medal in 2008. How cool is that! I will always have fond memories of my time in Hwa Chong. 
+
 **COLLEGE**
 
 My proudest achievement in college is to co-run the Mocktant, a satirical news publication based in Yale-NUS College. We are one of the most popular news sources at the College, and our [telegram channel](https://t.me/themocktant) has over 1000 followers to date. 
