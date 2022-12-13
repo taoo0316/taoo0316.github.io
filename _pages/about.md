@@ -41,7 +41,7 @@ My short-term goal is to start a data science career based in Singapore.
 
 **[NEWS]**
 
-*2023.01 Fun Semester at [Aalto University](https://www.aalto.fi/en)!*
+*2023.01 Fun Semester in [Finland](https://www.aalto.fi/en)!*
 
 *2020.07 Enrolled in [Yale-NUS College](https://www.yale-nus.edu.sg/)!*
 
