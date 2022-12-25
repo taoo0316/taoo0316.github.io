@@ -26,17 +26,13 @@ I grew up in [Xuchang](https://en.wikipedia.org/wiki/Xuchang) and moved to the p
 
 ```Fun fact: My hometown was the warlord Cao Cao's de facto capital during the late Eastern Han Dynasty. It is also now a world-renowned manufacturing centre for wigs and hair extensions.```
 
-I will be applying for master's programs in data science in 2024.
-
 Check out what projects I have been up to! Also, here is a surprisingly accurate [pronunciation](https://www.howtopronounce.com/wentao) of my name if you are having trouble. 
 
 **```What I Can Do```**
 
 I learned from a [CS department](https://en.wikipedia.org/wiki/Olivier_Danvy) with a heavy emphasis on functional programming, especially the use of [OCaml](https://ocaml.org/).
 
-I am deeply interested in making data useful for industry needs and researchers alike (inspired by my favourite data scientist Cassie Kozyrkov). This means making queries from databases, cleaning the data, feature engineering, building machine learning models/pipelines, or developing impactful visualisation.
-
-My short-term goal is to start a data science career based in Singapore.
+I am deeply interested in making data useful for industry needs and researchers alike. This means making queries from databases, cleaning the data, feature engineering, building machine learning models/pipelines, or developing impactful visualisation.
 
 
 **[NEWS]**
