@@ -58,7 +58,7 @@ My "favourite" music instrument to play is the saxophone, which is the only inst
 
 **MOVIES**
 
-My favourite movie is Lost in Translation (2003).
+My favourite movie is Lost in Translation (2003). I also discovered a [Finnish answer](https://www.theguardian.com/film/2022/apr/01/juho-kuosmanen-interview-compartment-no-6) to the film on a flight to Helsinki :D. Needless to say, Compartment No 6 is also equally amazing.
 
 ![image](https://user-images.githubusercontent.com/95064358/176360511-98944217-9c4f-40bf-8f4b-59060aaca663.png)
 
