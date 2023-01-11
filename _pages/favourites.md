@@ -145,5 +145,12 @@ Yale-NUS College is ```the``` most beautiful thing that happened to me since com
 
 ![photo_2020-11-29 15 13 59](https://user-images.githubusercontent.com/95064358/190857659-1066df6e-2abe-439a-aa2a-1344a1f888d8.jpeg)
 
+**Finland**
+
+An unforgettable semester in Finland with Rinat and Julene.
+
+![telegram-cloud-photo-size-5-6194936226910418062-y](https://user-images.githubusercontent.com/95064358/211920146-633ab66f-5f79-4f22-818b-d890bf51a1b7.jpg)
+
+
 
 
