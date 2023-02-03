@@ -142,7 +142,6 @@ My proudest achievement in college is to co-run the Mocktant, a satirical news p
 
 Yale-NUS College is ```the``` most beautiful thing that happened to me since coming to this small island. She is home in every sense of the word, and she will live on in all of us who have been so fortunate to be part of her albeit short existence.
 
-
 ![photo_2020-11-29 15 13 59](https://user-images.githubusercontent.com/95064358/190857659-1066df6e-2abe-439a-aa2a-1344a1f888d8.jpeg)
 
 **FINLAND**
