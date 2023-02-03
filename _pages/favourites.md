@@ -150,6 +150,8 @@ An unforgettable semester in Helsinki with Rinat and Julene.
 
 ![telegram-cloud-photo-size-5-6194936226910418062-y](https://user-images.githubusercontent.com/95064358/211920146-633ab66f-5f79-4f22-818b-d890bf51a1b7.jpg)
 
+I also got to travel around Europe, which made me realise that life can be much more than the intense competition we feel so much pride taking part in. I started to understand and be more empathetic of the minority experience as well. 
+
 
 
 
