@@ -152,6 +152,10 @@ An unforgettable semester in Helsinki with Rinat and Julene.
 
 I also got to travel around Europe, which made me realise that life can be much more than the intense competition we feel so much pride taking part in. I started to understand and be more empathetic of the minority experience as well. 
 
+![2023-02-04 15 20 02](https://user-images.githubusercontent.com/95064358/216770009-42221a46-f294-4461-bf31-9b43e7492cbc.jpg)
+
+This was taken in a Chinese restaurant in Copenhagen, Denmark.
+
 
 
 
