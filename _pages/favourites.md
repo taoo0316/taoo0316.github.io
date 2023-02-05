@@ -150,7 +150,7 @@ An unforgettable semester in Helsinki with Rinat and Julene.
 
 ![telegram-cloud-photo-size-5-6194936226910418062-y](https://user-images.githubusercontent.com/95064358/211920146-633ab66f-5f79-4f22-818b-d890bf51a1b7.jpg)
 
-I also got to travel around Europe, which made me realise that life can be much more than the intense competition we feel so much pride taking part in. I started to understand and be more empathetic of the minority experience as well. Beyond that, I began to questions many of the things held as self-evident and superior in the Anglosphere. 
+I also got to travel around Europe, which made me realise that life can be much more than the intense competition we feel so much pride taking part in. I started to understand and be more empathetic of the minority experience as well. Beyond that, I began to question many of the things held as self-evident and superior in the Anglosphere. 
 
 ![2023-02-04 15 20 02](https://user-images.githubusercontent.com/95064358/216770009-42221a46-f294-4461-bf31-9b43e7492cbc.jpg)
 
