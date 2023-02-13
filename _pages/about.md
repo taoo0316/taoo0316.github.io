@@ -55,3 +55,5 @@ To reach me quickly, find me on Telegram @taoo0316!
 
 ```I try to keep this site accurate and updated as much as possible. Nonetheless, contact me if you find anything is amiss.```
 
+```Viewed expressed here are purely my own and not those of the organisations I am associated with.```
+
