@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "World"
+permalink: /world/
+author_profile: true
+---
+
 ```Where I Have Been```
 
 <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
