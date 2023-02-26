@@ -7,3 +7,6 @@ main:
   - title: "Favourites"
     url: /favourites/
     
+  - title: "World"
+    url: /world/
+    
