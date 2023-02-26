@@ -47,8 +47,6 @@ I am deeply interested in making data useful for industry needs and researchers 
 
 I also have a terminal website built with [LiveTerm](https://github.com/Cveinnt/LiveTerm) and deployed by [Vercel](https://vercel.com). Check it out [here](https://live-term-taoo0316.vercel.app/).
 
-![Screenshot 2022-07-18 at 1 37 53 AM](https://user-images.githubusercontent.com/95064358/179417906-2a1d9ecb-f75a-402c-a835-12e55c010e52.png)
-
 To reach me quickly, find me on Telegram @taoo0316!
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BFXFcN61Uys-0YXGJKGl8547HbTR1J4FroLBH-q6mso&cl=ffffff&w=a"></script>
