@@ -95,7 +95,11 @@ author_profile: true
           {
             "id": "TW",
             "showAsSelected": true
-          }
+          },
+          	{
+		        "id": "NO",
+		        "showAsSelected": true
+	        }
         ]
       },
       areasSettings : {
