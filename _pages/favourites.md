@@ -71,6 +71,10 @@ Controversial question to ask!! I had a fair amount of exposure to OCaml and Pyt
 
 ![Screenshot 2022-09-17 at 9 00 58 PM](https://user-images.githubusercontent.com/95064358/190858167-cd3470d8-ea9b-4abe-aa76-91479ab47d9d.png)
 
+**WRITING**
+
+I love to write. I started to realise I had an interest in writing by joining the Queen's Commonwealth Essay Competition. I won the Gold Award twice, both in 2017 and 2018. I also wrote news stories for Yale-NUS College (YNC) for a brief period of time. Beyond that, I am part of a beloved satirical news publication that many YNC students enjoy. I am currently working on a science fiction novel, but give me more a few more years :D.
+
 
 **DOCUMENTARIES**
 
