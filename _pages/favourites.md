@@ -73,7 +73,7 @@ Controversial question to ask!! I had a fair amount of exposure to OCaml and Pyt
 
 **WRITING**
 
-I love to write. I started to realise I had an interest in writing by joining the Queen's Commonwealth Essay Competition. I won the Gold Award twice, both in 2017 and 2018. I also wrote news stories for Yale-NUS College (YNC) for a brief period of time. Beyond that, I am part of a beloved satirical news publication that many YNC students enjoy. I am currently working on a science fiction novel, but give me more a few more years :D.
+I love to write. I started to realise I had an interest in writing by joining the Queen's Commonwealth Essay Competition. I won the Gold Award twice, both in 2017 and 2018. I also wrote news stories for Yale-NUS College (YNC) for a brief period of time. Beyond that, I am part of a beloved satirical news publication that many YNC students enjoy. I am currently working on a science fiction novel, but give me a few more years :D.
 
 
 **DOCUMENTARIES**
