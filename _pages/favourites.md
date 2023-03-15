@@ -140,10 +140,6 @@ An unforgettable semester in Helsinki with Rinat and Julene.
 
 I also got to travel around Europe, which made me realise that life can be much more than the intense competition we feel so much pride taking part in. I started to understand and be more empathetic of the minority experience as well. Beyond that, I began to question many of the things held as self-evident and superior in the English-speaking world. 
 
-![2023-02-04 15 20 02](https://user-images.githubusercontent.com/95064358/216770009-42221a46-f294-4461-bf31-9b43e7492cbc.jpg)
-
-This was taken in a Chinese restaurant in Copenhagen, Denmark.
-
 https://user-images.githubusercontent.com/95064358/225321524-a35d1ea5-b290-4e5f-a359-160a73b7c780.mp4
 
 This was taken in Estonia along the coast of the Baltic Sea.
