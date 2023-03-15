@@ -144,6 +144,9 @@ I also got to travel around Europe, which made me realise that life can be much 
 
 This was taken in a Chinese restaurant in Copenhagen, Denmark.
 
+https://user-images.githubusercontent.com/95064358/225321524-a35d1ea5-b290-4e5f-a359-160a73b7c780.mp4
+
+This was taken in Estonia along the coast of the Baltic Sea.
 
 
 
