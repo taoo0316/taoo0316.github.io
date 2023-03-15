@@ -136,13 +136,13 @@ Yale-NUS College is ```the``` most beautiful thing that happened to me since com
 
 An unforgettable semester in Helsinki with Rinat and Julene.
 
-![telegram-cloud-photo-size-5-6194936226910418062-y](https://user-images.githubusercontent.com/95064358/211920146-633ab66f-5f79-4f22-818b-d890bf51a1b7.jpg)
-
 I also got to travel around Europe, which made me realise that life can be much more than the intense competition we feel so much pride taking part in. I started to understand and be more empathetic of the minority experience as well. Beyond that, I began to question many of the things held as self-evident and superior in the English-speaking world. 
 
-https://user-images.githubusercontent.com/95064358/225321524-a35d1ea5-b290-4e5f-a359-160a73b7c780.mp4
+![2023-03-15 15 33 47](https://user-images.githubusercontent.com/95064358/225324861-d12fb9f0-082b-4b5c-ab7c-dfdcdd1068f1.jpg)
 
-This was taken in Estonia along the coast of the Baltic Sea.
+This was taken in Oslo, Norway.
+
+
 
 
 
