@@ -114,7 +114,7 @@ My favourite possession is my Xiaomi monitor. I cannot live without it.
 
 My favourite photo of myself:
 
-![IMG_3153](https://user-images.githubusercontent.com/95064358/178159810-7dff90ba-e2f0-4f77-ad89-ef56878d4f1b.JPG).
+![IMG_3153](https://user-images.githubusercontent.com/95064358/178159810-7dff90ba-e2f0-4f77-ad89-ef56878d4f1b.JPG)
 
 This was taken in Ruili One Tree Forest in Yunnan.
 
