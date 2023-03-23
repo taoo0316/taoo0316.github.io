@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size="4">
 
 ```Search something on Google, the world's most powerful search engine :D```
 
@@ -57,4 +56,3 @@ To reach me quickly, find me on Telegram @taoo0316!
 
 ```Viewed expressed here are purely my own and not those of the organisations I am associated with.```
 
-</font>
