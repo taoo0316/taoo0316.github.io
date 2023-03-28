@@ -5,8 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-
-*Yale-NUS Self-Sourced Internship Funding 2023
+*Yale-NUS Self-Sourced Internship Funding 2023*
 
 *Georgette Chen Study Award 2022*
 
