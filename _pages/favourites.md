@@ -67,7 +67,9 @@ My favourite movie is Lost in Translation (2003). I also discovered a [Finnish a
 
 **LANGUAGES**
 
-Controversial question to ask!! I had a fair amount of exposure to OCaml and Python in college, but I am always looking to learn more. My mother tongue is Mandarin Chinese, and it is the language I am most comfortable conversing in. I mostly write in English now.
+Controversial question to ask! I had a fair amount of exposure to OCaml and Python in college, but I am always looking to learn more. 
+
+My mother tongue is Mandarin Chinese, and it is the language I am most comfortable conversing in. I also picked up some Finnish during my time at [Aalto](https://www.aalto.fi/fi). I mostly write in English now.
 
 ![Screenshot 2022-09-17 at 9 00 58 PM](https://user-images.githubusercontent.com/95064358/190858167-cd3470d8-ea9b-4abe-aa76-91479ab47d9d.png)
 
