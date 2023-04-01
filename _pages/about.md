@@ -26,7 +26,7 @@ I grew up in [Xuchang](https://en.wikipedia.org/wiki/Xuchang) and moved to the p
 
 ```Fun fact: My hometown was the warlord Cao Cao's de facto capital during the late Eastern Han Dynasty. It is also now a world-renowned manufacturing centre for wigs and hair extensions.```
 
-Check out what projects I have been up to! Also, here is a surprisingly accurate [pronunciation](https://www.howtopronounce.com/wentao) of my name if you are having trouble. 
+Check out what projects I have been up to on [GitHub](https://github.com/taoo0316)! Also, here is a surprisingly accurate [pronunciation](https://www.howtopronounce.com/wentao) of my name if you are having trouble. 
 
 **```What I Can Do```**
 
