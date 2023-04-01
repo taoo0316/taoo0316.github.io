@@ -35,16 +35,6 @@ I learned from a [CS department](https://en.wikipedia.org/wiki/Olivier_Danvy) wi
 I am deeply interested in making data useful for industry needs and researchers alike. This means making queries from databases, cleaning the data, feature engineering, building machine learning models/pipelines, or developing impactful visualisation.
 
 
-**[NEWS]**
-
-*2023.01 Fun Semester in [Finland](https://www.aalto.fi/en)!*
-
-*2020.07 Enrolled in [Yale-NUS College](https://www.yale-nus.edu.sg/)!*
-
-*2019.12 Graduated from [Hwa Chong Institution](https://www.hci.edu.sg/)!*
-
-*2015.10 Moved to Singapore!*
-
 You can also check out my [terminal](https://live-term-taoo0316.vercel.app/) website and [single-page](https://zola-hallo-taoo0316.vercel.app/) website.
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BFXFcN61Uys-0YXGJKGl8547HbTR1J4FroLBH-q6mso&cl=ffffff&w=a"></script>
