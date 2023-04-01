@@ -45,7 +45,7 @@ I am deeply interested in making data useful for industry needs and researchers 
 
 *2015.10 Moved to Singapore!*
 
-I also have a terminal website built with [LiveTerm](https://github.com/Cveinnt/LiveTerm) and deployed by [Vercel](https://vercel.com). Check it out [here](https://live-term-taoo0316.vercel.app/).
+You can also check out my [terminal](https://live-term-taoo0316.vercel.app/) website and [single-page](https://zola-hallo.taoo0316.vercel.app/) website.
 
 To reach me quickly, find me on Telegram @taoo0316!
 
