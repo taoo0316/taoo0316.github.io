@@ -7,9 +7,6 @@ author_profile: true
 
 ```Images are purely for illustration purposes. Contact me should there be any issue with copyright.```
 
-```The list is not in any particular 'order', in case you are looking for some.```
-
-
 **SIGHT**
 
 I absolutely love the colour blue. Here are some of my favourite kind of photos.
@@ -143,6 +140,8 @@ I also got to travel around Europe, which made me realise that life can be much 
 ![2023-03-15 15 33 47](https://user-images.githubusercontent.com/95064358/225324861-d12fb9f0-082b-4b5c-ab7c-dfdcdd1068f1.jpg)
 
 This was taken in Oslo, Norway.
+
+```The list is not in any particular 'order', in case you are looking for some.```
 
 
 
