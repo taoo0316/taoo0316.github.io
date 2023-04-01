@@ -45,7 +45,7 @@ I am deeply interested in making data useful for industry needs and researchers 
 
 *2015.10 Moved to Singapore!*
 
-You can also check out my [terminal](https://live-term-taoo0316.vercel.app/) website and [single-page](https://zola-hallo.taoo0316.vercel.app/) website.
+You can also check out my [terminal](https://live-term-taoo0316.vercel.app/) website and [single-page](https://zola-hallo-taoo0316.vercel.app/) website.
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BFXFcN61Uys-0YXGJKGl8547HbTR1J4FroLBH-q6mso&cl=ffffff&w=a"></script>
 
