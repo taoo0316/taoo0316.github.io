@@ -3,6 +3,9 @@ main:
 
   - title: "Awards"
     url: /awards/
+    
+  - title: "Projects"
+    url: /projects/
 
   - title: "Favourites"
     url: /favourites/
