@@ -80,6 +80,10 @@ author_profile: true
             "id": "CN",
             "showAsSelected": true
           },
+	  {
+		"id": "CH",
+		"showAsSelected": true
+	},
           {
             "id": "MY",
             "showAsSelected": true
