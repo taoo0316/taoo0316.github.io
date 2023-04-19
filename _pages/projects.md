@@ -7,7 +7,7 @@ author_profile: true
 
 ```Upcoming```
 
-This page lists the open-source projects I have contributed to. To see personal projects or those on a smaller scale. Visit my [GitHub](https://github.com/taoo0316)!
+This page lists the open-source projects I have contributed to. To see personal projects or those on a smaller scale, visit my [GitHub](https://github.com/taoo0316)!
 
 ```umactually.info```
 
