@@ -11,5 +11,5 @@ This page lists the open-source projects I have contributed to. To see personal 
 
 ![umactually](https://user-images.githubusercontent.com/95064358/232983799-0e585529-c688-491f-84b9-1d0601cd0a33.png)
 
-[umactually.info](umactually.info)
+[umactually.info](https://umactually.info)
 
