@@ -125,9 +125,9 @@ The photo of my high school graduation!
 
 Standing beside me is Ms. Yan Youyu, my form teacher and Mathematics teacher, both H2 and H3! She was the recipient of the Lee Kuan Yew Gold Medal in 2008. How cool is that! I will always have fond memories of my time in Hwa Chong. 
 
-**SINGAPORE**
+**COLLEGE**
 
-Yale-NUS College is ```the``` most beautiful thing that happened to me since coming to this small island. She is home in every sense of the word, and she will live on in all of us who have been so fortunate to be part of her albeit short existence.
+Yale-NUS College is home in every sense of the word, and she will live on in all of us who have been so fortunate to be part of her albeit short existence.
 
 ![photo_2020-11-29 15 13 59](https://user-images.githubusercontent.com/95064358/190857659-1066df6e-2abe-439a-aa2a-1344a1f888d8.jpeg)
 
