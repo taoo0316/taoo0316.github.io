@@ -1,11 +1,5 @@
 # main links links
 main:
-
-  - title: "Awards"
-    url: /awards/
-
-  - title: "Favourites"
-    url: /favourites/
     
   - title: "World"
     url: /world/
