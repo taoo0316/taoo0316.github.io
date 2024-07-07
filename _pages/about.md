@@ -18,9 +18,7 @@ redirect_from:
 <style>body {text-align: justify}</style>
 
 
-👋 Hey! I am Wentao, a research assistant at the [Digital Medicine Lab](https://blog.nus.edu.sg/liunan/) of [Duke-NUS Medical School](https://www.duke-nus.edu.sg/), where I am fortunate to be advised by Professor [Liu Nan](https://www.duke-nus.edu.sg/directory/detail/liu-nan). 
-
-I am broadly interested in interpretable machine learning and health data science. Before that, I received my bachelor's degree in computer science and statistics from [Yale-NUS College](https://www.yale-nus.edu.sg/).
+👋 Hey! I am Wentao, a research assistant at the [Digital Medicine Lab](https://blog.nus.edu.sg/liunan/) of [Duke-NUS Medical School](https://www.duke-nus.edu.sg/), where I am fortunate to be advised by Professor [Liu Nan](https://www.duke-nus.edu.sg/directory/detail/liu-nan). I am broadly interested in interpretable machine learning and health data science. Before that, I received my bachelor's degree in computer science and statistics from [Yale-NUS College](https://www.yale-nus.edu.sg/).
 
 I grew up in [Xuchang](https://en.wikipedia.org/wiki/Xuchang) and moved to the provincial capital [Zhengzhou](https://en.wikipedia.org/wiki/Zhengzhou) when I was 12. At age 15, I boarded my first international flight and moved to the [little red dot](https://en.wikipedia.org/wiki/Little_red_dot) with the generous support of Singapore's Ministry of Education. 
 
