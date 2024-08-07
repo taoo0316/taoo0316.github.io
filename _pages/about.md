@@ -22,7 +22,7 @@ redirect_from:
 
 I grew up in [Xuchang](https://en.wikipedia.org/wiki/Xuchang) and moved to the provincial capital [Zhengzhou](https://en.wikipedia.org/wiki/Zhengzhou) when I was 12. At age 15, I boarded my first international flight and moved to the [little red dot](https://en.wikipedia.org/wiki/Little_red_dot) with the generous support of Singapore's Ministry of Education. 
 
-![image](https://user-images.githubusercontent.com/95064358/177197685-5e4efc39-7f53-475a-892a-116de039b8f8.png)
+![b63ac83093730659b76c2e184bb29e3a](https://github.com/user-attachments/assets/47717d0c-a233-4b36-96a7-0e580873efdf)
 
 ```Fun fact: My hometown was the warlord Cao Cao's de facto capital during the late Eastern Han Dynasty. It is also now a world-renowned manufacturing centre for wigs and hair extensions.```
 
