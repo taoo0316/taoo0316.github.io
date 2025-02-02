@@ -100,10 +100,14 @@ author_profile: true
             "id": "TW",
             "showAsSelected": true
           },
-          	{
-		        "id": "NO",
-		        "showAsSelected": true
-	        }
+          {
+	    "id": "NO",
+	    "showAsSelected": true
+	  },
+	  {
+	    "id": "AE",
+	    "showAsSelected": true
+	  }
         ]
       },
       areasSettings : {
