@@ -25,6 +25,3 @@ redirect_from:
 Check out what projects I have been up to on [GitHub](https://github.com/taoo0316)! Also, here is a surprisingly accurate [pronunciation](https://www.howtopronounce.com/wentao) of my name if you are having trouble. You may also check out my [terminal](https://live-term-taoo0316.vercel.app/) website and [single-page](https://zola-hallo-taoo0316.vercel.app/) website.
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BFXFcN61Uys-0YXGJKGl8547HbTR1J4FroLBH-q6mso&cl=ffffff&w=a"></script>
-
-> Views expressed here are purely my own and not those of the organisations I am associated with.
-
