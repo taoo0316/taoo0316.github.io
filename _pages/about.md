@@ -22,6 +22,6 @@ redirect_from:
 
 ```Fun fact: My hometown was the warlord Cao Cao's de facto capital during the late Eastern Han Dynasty. It is also now a world-renowned manufacturing centre for wigs and hair extensions.```
 
-Check out what projects I have been up to on [GitHub](https://github.com/taoo0316)! Also, here is a surprisingly accurate [pronunciation](https://www.howtopronounce.com/wentao) of my name if you are having trouble. You may also check out my [terminal](https://live-term-taoo0316.vercel.app/) website and [single-page](https://zola-hallo-taoo0316.vercel.app/) website.
+Check out what projects I have been up to on [GitHub](https://github.com/taoo0316)! Also, here is a surprisingly accurate [pronunciation](https://www.howtopronounce.com/wentao) of my name if you are having trouble. You may also check out my [terminal](https://live-term-taoo0316.vercel.app/) website and [single-page](https://zola-hallo.taoo0316.vercel.app/) website.
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BFXFcN61Uys-0YXGJKGl8547HbTR1J4FroLBH-q6mso&cl=ffffff&w=a"></script>
