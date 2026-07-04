@@ -18,7 +18,7 @@ redirect_from:
 <style>body {text-align: justify}</style>
 
 
-👋 Hey! I am Wentao, currently based in Singapore. I grew up in [Xuchang](https://en.wikipedia.org/wiki/Xuchang) and moved to the provincial capital [Zhengzhou](https://en.wikipedia.org/wiki/Zhengzhou) when I was 12. At age 15, I boarded my first international flight and moved to the [little red dot](https://en.wikipedia.org/wiki/Little_red_dot) with the generous support of Singapore's Ministry of Education. I received my bachelor's degree in computer science from [Yale-NUS College](https://www.yale-nus.edu.sg/).
+👋 Hey! I am Wentao, currently based in Singapore and working as an AI Scientist at a fintech company. I grew up in [Xuchang](https://en.wikipedia.org/wiki/Xuchang) and moved to the provincial capital [Zhengzhou](https://en.wikipedia.org/wiki/Zhengzhou) when I was 12. At age 15, I boarded my first international flight and moved to the [little red dot](https://en.wikipedia.org/wiki/Little_red_dot) with the generous support of Singapore's Ministry of Education. I received my bachelor's degree in computer science from [Yale-NUS College](https://www.yale-nus.edu.sg/).
 
 ```Fun fact: My hometown was the warlord Cao Cao's de facto capital during the late Eastern Han Dynasty. It is also now a world-renowned manufacturing centre for wigs and hair extensions.```
 
