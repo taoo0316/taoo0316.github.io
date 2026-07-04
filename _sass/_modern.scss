@@ -118,6 +118,15 @@ a:visited { color: var(--accent); }
   backdrop-filter: saturate(180%) blur(12px);
   border-bottom: 1px solid var(--border);
 }
+/* Lay the masthead out as a flex row so the toggle always sits at the far right,
+   with the greedy-nav (and its mobile hamburger) taking the remaining space. */
+.masthead__inner-wrap {
+  display: flex;
+  align-items: center;
+  gap: 0.75em;
+}
+.masthead__inner-wrap::after { content: none; }   /* drop the float clearfix in flex context */
+.masthead__menu { flex: 1 1 auto; min-width: 0; }
 
 .greedy-nav { background: transparent; }
 
@@ -137,6 +146,8 @@ a:visited { color: var(--accent); }
    Theme toggle button
    -------------------------------------------------------------------------- */
 .theme-toggle {
+  flex: 0 0 auto;
+  margin: 0;
   background: transparent;
   border: 1px solid var(--border);
   color: var(--text);
@@ -148,8 +159,6 @@ a:visited { color: var(--accent); }
   align-items: center;
   justify-content: center;
   padding: 0;
-  margin-left: 0.5em;
-  align-self: center;
   transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
 }
 .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
@@ -258,18 +267,22 @@ tbody tr:nth-child(2n) { background: var(--bg-elev); }
   background: var(--bg);
   color: var(--text);
   border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 0.5em 0.75em;
+  border-radius: 6px;
+  padding: 0.4em 0.7em;
   font: inherit;
-  min-width: min(20rem, 60vw);
+  font-size: 0.95em;
+  line-height: 1.4;
+  min-width: min(18rem, 60vw);
 }
 .page__content form input[type="submit"] {
   background: var(--accent);
   color: #fff;
   border: 0;
-  border-radius: 8px;
-  padding: 0.5em 1em;
+  border-radius: 6px;
+  padding: 0.4em 0.9em;
   font: inherit;
+  font-size: 0.9em;
+  line-height: 1.4;
   cursor: pointer;
   margin-left: 0.4em;
 }
