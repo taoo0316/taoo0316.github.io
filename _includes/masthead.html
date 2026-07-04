@@ -40,9 +40,9 @@
       try { localStorage.setItem('theme', next); } catch (e) {}
     }
     var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    // No View Transitions support (or reduced motion): just swap instantly.
+    /* No View Transitions support (or reduced motion): just swap instantly. */
     if (!document.startViewTransition || reduce) { apply(); return; }
-    // Circular reveal expanding from the centre of the toggle button.
+    /* Circular reveal expanding from the centre of the toggle button. */
     var r = btn.getBoundingClientRect();
     var x = r.left + r.width / 2, y = r.top + r.height / 2;
     var end = Math.hypot(Math.max(x, window.innerWidth - x), Math.max(y, window.innerHeight - y));
