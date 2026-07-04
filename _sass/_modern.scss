@@ -189,6 +189,21 @@ a:visited { color: var(--accent); }
 }
 .author__urls:before,
 .author__urls:after { display: none; }   /* remove popover caret */
+
+/* Contact list: match the page font (theme hard-codes the system sans here) and
+   tighten the vertical rhythm so it doesn't stack too tall. */
+.author__urls-wrapper,
+.author__urls,
+.author__urls li,
+.author__urls a { font-family: $sitefont; }
+.author__urls a {
+  margin-bottom: 0;
+  padding-top: 0.15em;
+  padding-bottom: 0.15em;
+  line-height: 1.4;
+  font-size: 0.95em;
+}
+
 .author__avatar img {
   border: 3px solid var(--bg);
   box-shadow: 0 0 0 1px var(--border), var(--shadow);
