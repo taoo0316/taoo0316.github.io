@@ -155,21 +155,43 @@ a:visited { color: var(--accent); }
   height: 2.1em;
   border-radius: 999px;
   cursor: pointer;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
+  display: grid;
+  place-items: center;
   padding: 0;
   transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
 }
 .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
-.theme-toggle svg { width: 1.05em; height: 1.05em; fill: none; stroke: currentColor; stroke-width: 2; }
-.theme-toggle .icon-sun { display: none; }
-.theme-toggle .icon-moon { display: block; }
-:root[data-theme="dark"] .theme-toggle .icon-sun { display: block; }
-:root[data-theme="dark"] .theme-toggle .icon-moon { display: none; }
+
+/* Both icons share one grid cell and swap via rotate/scale/opacity. */
+.theme-toggle svg {
+  grid-area: 1 / 1;
+  width: 1.05em;
+  height: 1.05em;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  transition: opacity 0.3s ease, transform 0.45s cubic-bezier(0.5, 0, 0.25, 1.25);
+}
+.theme-toggle .icon-sun  { opacity: 0; transform: rotate(-90deg) scale(0.4); }
+.theme-toggle .icon-moon { opacity: 1; transform: none; }
+:root[data-theme="dark"] .theme-toggle .icon-sun  { opacity: 1; transform: none; }
+:root[data-theme="dark"] .theme-toggle .icon-moon { opacity: 0; transform: rotate(90deg) scale(0.4); }
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) .theme-toggle .icon-sun { display: block; }
-  :root:not([data-theme="light"]) .theme-toggle .icon-moon { display: none; }
+  :root:not([data-theme="light"]) .theme-toggle .icon-sun  { opacity: 1; transform: none; }
+  :root:not([data-theme="light"]) .theme-toggle .icon-moon { opacity: 0; transform: rotate(90deg) scale(0.4); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .theme-toggle svg { transition: none; }
+}
+
+/* Full-page circular reveal on theme switch (View Transitions API; progressive
+   enhancement -- browsers without support just snap, handled in the JS). The new
+   theme's snapshot sits on top and its clip-path is animated open from the toggle. */
+@media (prefers-reduced-motion: no-preference) {
+  ::view-transition-old(root),
+  ::view-transition-new(root) { animation: none; mix-blend-mode: normal; }
+  ::view-transition-old(root) { z-index: 0; }
+  ::view-transition-new(root) { z-index: 1; }
 }
 
 /* --------------------------------------------------------------------------

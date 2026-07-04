@@ -35,8 +35,24 @@
     var systemDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
     var current = root.getAttribute('data-theme') || (systemDark ? 'dark' : 'light');
     var next = current === 'dark' ? 'light' : 'dark';
-    root.setAttribute('data-theme', next);
-    try { localStorage.setItem('theme', next); } catch (e) {}
+    function apply() {
+      root.setAttribute('data-theme', next);
+      try { localStorage.setItem('theme', next); } catch (e) {}
+    }
+    var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    // No View Transitions support (or reduced motion): just swap instantly.
+    if (!document.startViewTransition || reduce) { apply(); return; }
+    // Circular reveal expanding from the centre of the toggle button.
+    var r = btn.getBoundingClientRect();
+    var x = r.left + r.width / 2, y = r.top + r.height / 2;
+    var end = Math.hypot(Math.max(x, window.innerWidth - x), Math.max(y, window.innerHeight - y));
+    document.startViewTransition(apply).ready.then(function () {
+      root.animate(
+        { clipPath: ['circle(0px at ' + x + 'px ' + y + 'px)',
+                     'circle(' + end + 'px at ' + x + 'px ' + y + 'px)'] },
+        { duration: 480, easing: 'ease-in-out', pseudoElement: '::view-transition-new(root)' }
+      );
+    });
   });
 })();
 </script>
