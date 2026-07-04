@@ -242,6 +242,19 @@ a:visited { color: var(--accent); }
   font-size: 0.95em;
 }
 
+/* Below the theme's $large (925px) the sidebar stacks full-width above the
+   content, where a tall vertical contact list wastes space. Lay it out as a
+   horizontal wrapping row of chips instead. Desktop stays vertical. */
+@media (max-width: 57.8125em) {
+  .sidebar .author__urls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35em 1.35em;
+    margin-top: 0.6em;
+  }
+  .author__urls li { white-space: nowrap; }
+}
+
 .author__avatar img {
   border: 3px solid var(--bg);
   box-shadow: 0 0 0 1px var(--border), var(--shadow);
