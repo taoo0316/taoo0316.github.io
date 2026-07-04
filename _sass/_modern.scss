@@ -124,6 +124,7 @@ a:visited { color: var(--accent); }
   display: flex;
   align-items: center;
   gap: 0.75em;
+  font-family: $sitefont;   /* theme defaults the masthead to the system font */
 }
 .masthead__inner-wrap::after { content: none; }   /* drop the float clearfix in flex context */
 .masthead__menu { flex: 1 1 auto; min-width: 0; }
@@ -199,6 +200,11 @@ a:visited { color: var(--accent); }
    Sidebar / author profile
    -------------------------------------------------------------------------- */
 .author__name { color: var(--text); }
+/* Theme forces the whole sidebar to the system font; match the page (Space Grotesk).
+   Selectors mirror the theme's specificity so this override wins (loaded later). */
+.sidebar h2, .sidebar h3, .sidebar h4, .sidebar h5, .sidebar h6,
+.sidebar p, .sidebar li,
+.sidebar .author__name { font-family: $sitefont; }
 .author__urls-wrapper button { display: none; }   /* hide dummy "Follow" button */
 .sidebar .author__urls li,
 .author__urls a { color: var(--text-muted); }
