@@ -171,6 +171,24 @@ a:visited { color: var(--accent); }
 .sidebar .author__urls li,
 .author__urls a { color: var(--text-muted); }
 .author__urls a:hover { color: var(--accent); }
+
+/* Since the "Follow" toggle is hidden, render the social links inline in normal
+   flow at every width instead of as an absolutely-positioned popover. This fixes
+   the mobile bug where the popover overlapped the page content. */
+.author__urls-wrapper { display: block; }
+.sidebar .author__urls,
+.author__urls {
+  position: static;
+  display: block;
+  margin: 0.75em 0 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+  z-index: auto;
+}
+.author__urls:before,
+.author__urls:after { display: none; }   /* remove popover caret */
 .author__avatar img {
   border: 3px solid var(--bg);
   box-shadow: 0 0 0 1px var(--border), var(--shadow);
