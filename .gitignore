@@ -1,2 +1,11 @@
 _site/
 
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+Gemfile.lock
+.sass-cache/
+
+# Local Claude Code preview config (machine/session-specific)
+.claude/

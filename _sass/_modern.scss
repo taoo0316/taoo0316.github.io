@@ -1,0 +1,268 @@
+/* ==========================================================================
+   Modern theme layer  --  cool-modern refresh + dark mode
+   Loaded last so it can override the base Minimal Mistakes styles.
+   All theming flows through CSS custom properties for a single source of truth.
+   ========================================================================== */
+
+/* Self-hosted Space Grotesk (variable, latin subset) -- no external font requests */
+@font-face {
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300 700;
+  src: url("/assets/fonts/space-grotesk/SpaceGrotesk.var.woff2") format("woff2");
+}
+
+/* --------------------------------------------------------------------------
+   Design tokens
+   -------------------------------------------------------------------------- */
+:root {
+  --bg: #ffffff;
+  --bg-elev: #f6f8fa;
+  --text: #1f2328;
+  --text-muted: #57606a;
+  --border: #e6e8eb;
+  --accent: #2563eb;
+  --accent-hover: #1d4ed8;
+  --masthead-bg: rgba(255, 255, 255, 0.82);
+  --selection: rgba(37, 99, 235, 0.16);
+  --shadow: 0 1px 2px rgba(16, 24, 40, 0.04), 0 1px 3px rgba(16, 24, 40, 0.06);
+}
+
+/* Dark palette -- applied when the system prefers dark (and user hasn't forced light),
+   or when the user explicitly toggles dark. */
+@mixin dark-tokens {
+  --bg: #0d1117;
+  --bg-elev: #161b22;
+  --text: #e6edf3;
+  --text-muted: #9198a1;
+  --border: #2a313c;
+  --accent: #6ea8fe;
+  --accent-hover: #93c5fd;
+  --masthead-bg: rgba(13, 17, 23, 0.82);
+  --selection: rgba(110, 168, 254, 0.20);
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { @include dark-tokens; }
+}
+:root[data-theme="dark"] { @include dark-tokens; }
+
+/* --------------------------------------------------------------------------
+   Base surfaces
+   -------------------------------------------------------------------------- */
+html { scroll-behavior: smooth; }
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+::selection { background: var(--selection); }
+
+#main, .page__content, .page__inner-wrap { color: var(--text); }
+
+/* --------------------------------------------------------------------------
+   Typography
+   -------------------------------------------------------------------------- */
+body {
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  line-height: 1.65;
+}
+
+h1, h2, h3, h4, h5, h6,
+.page__title, .archive__item-title, .author__name {
+  color: var(--text);
+  letter-spacing: -0.018em;
+  line-height: 1.25;
+  font-weight: 650;
+}
+
+.page__content p,
+.page__content li { line-height: 1.7; }
+
+/* --------------------------------------------------------------------------
+   Links
+   -------------------------------------------------------------------------- */
+a { color: var(--accent); transition: color 0.15s ease; }
+a:hover { color: var(--accent-hover); }
+a:visited { color: var(--accent); }
+
+.page__content a {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+  text-decoration-color: color-mix(in srgb, var(--accent) 35%, transparent);
+}
+.page__content a:hover { text-decoration-color: var(--accent-hover); }
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* --------------------------------------------------------------------------
+   Masthead -- sticky, translucent, blurred
+   -------------------------------------------------------------------------- */
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: var(--masthead-bg);
+  -webkit-backdrop-filter: saturate(180%) blur(12px);
+  backdrop-filter: saturate(180%) blur(12px);
+  border-bottom: 1px solid var(--border);
+}
+
+.greedy-nav { background: transparent; }
+
+.masthead__menu-item a,
+.greedy-nav a {
+  color: var(--text);
+  font-weight: 500;
+}
+.masthead__menu-item a:hover,
+.greedy-nav a:hover { color: var(--accent); }
+
+.masthead__menu-item--lg a { font-weight: 700; letter-spacing: -0.01em; }
+
+.greedy-nav .visible-links a:before { background: var(--accent); }
+
+/* --------------------------------------------------------------------------
+   Theme toggle button
+   -------------------------------------------------------------------------- */
+.theme-toggle {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text);
+  width: 2.1em;
+  height: 2.1em;
+  border-radius: 999px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  margin-left: 0.5em;
+  align-self: center;
+  transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+}
+.theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+.theme-toggle svg { width: 1.05em; height: 1.05em; fill: none; stroke: currentColor; stroke-width: 2; }
+.theme-toggle .icon-sun { display: none; }
+.theme-toggle .icon-moon { display: block; }
+:root[data-theme="dark"] .theme-toggle .icon-sun { display: block; }
+:root[data-theme="dark"] .theme-toggle .icon-moon { display: none; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .theme-toggle .icon-sun { display: block; }
+  :root:not([data-theme="light"]) .theme-toggle .icon-moon { display: none; }
+}
+
+/* --------------------------------------------------------------------------
+   Sidebar / author profile
+   -------------------------------------------------------------------------- */
+.author__name { color: var(--text); }
+.author__urls-wrapper button { display: none; }   /* hide dummy "Follow" button */
+.sidebar .author__urls li,
+.author__urls a { color: var(--text-muted); }
+.author__urls a:hover { color: var(--accent); }
+.author__avatar img {
+  border: 3px solid var(--bg);
+  box-shadow: 0 0 0 1px var(--border), var(--shadow);
+}
+
+/* --------------------------------------------------------------------------
+   Content elements
+   -------------------------------------------------------------------------- */
+hr { border: 0; border-top: 1px solid var(--border); }
+
+blockquote {
+  border-left: 3px solid var(--accent);
+  color: var(--text-muted);
+}
+
+code {
+  background: var(--bg-elev);
+  color: var(--text);
+  border-radius: 4px;
+  padding: 0.12em 0.35em;
+}
+/* Code blocks & inline code -- target the theme's rouge/highlight wrappers
+   (they carry .highlighter-rouge at specificity 0,1,0) so dark mode applies */
+pre,
+.highlighter-rouge,
+.highlighter-rouge .highlight,
+figure.highlight,
+pre.highlight {
+  background: var(--bg-elev);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+/* inline code chips shouldn't have the full-block border */
+code.highlighter-rouge { border: 0; padding: 0.12em 0.4em; }
+.highlighter-rouge .highlight,
+pre.highlight { border: 0; }
+pre code,
+.highlight code,
+.highlighter-rouge code {
+  background: transparent;
+  color: var(--text);
+  padding: 0;
+}
+
+table { border-color: var(--border); }
+table td, table th { border-color: var(--border); }
+tbody tr:nth-child(2n) { background: var(--bg-elev); }
+
+/* Simple search form on the homepage -- make it tidy */
+.page__content form input[type="text"] {
+  background: var(--bg);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.5em 0.75em;
+  font: inherit;
+  min-width: min(20rem, 60vw);
+}
+.page__content form input[type="submit"] {
+  background: var(--accent);
+  color: #fff;
+  border: 0;
+  border-radius: 8px;
+  padding: 0.5em 1em;
+  font: inherit;
+  cursor: pointer;
+  margin-left: 0.4em;
+}
+.page__content form input[type="submit"]:hover { background: var(--accent-hover); }
+
+/* --------------------------------------------------------------------------
+   Footer
+   -------------------------------------------------------------------------- */
+.page__footer {
+  background: var(--bg-elev);
+  color: var(--text-muted);
+  border-top: 1px solid var(--border);
+}
+.page__footer a { color: var(--text-muted); }
+.page__footer a:hover { color: var(--accent); }
+.page__footer-follow .social-icons a { color: var(--text-muted); }
+
+/* --------------------------------------------------------------------------
+   Gentle entrance motion (respects reduced-motion)
+   -------------------------------------------------------------------------- */
+@media (prefers-reduced-motion: no-preference) {
+  .page__content, .archive__item {
+    animation: fade-up 0.5s ease both;
+  }
+  @keyframes fade-up {
+    from { opacity: 0; transform: translateY(8px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+}
