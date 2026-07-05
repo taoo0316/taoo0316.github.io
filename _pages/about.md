@@ -24,13 +24,9 @@ redirect_from:
 
 Check out what projects I have been up to on [GitHub](https://github.com/taoo0316)! Also, here is a surprisingly accurate [pronunciation](https://www.howtopronounce.com/wentao) of my name if you are having trouble. You may also check out my [terminal](https://live-term-taoo0316.vercel.app/) website and [single-page](https://zola-hallo.taoo0316.vercel.app/) website.
 
-{% assign np = site.data.nowplaying %}
-<a class="now-playing" href="https://youtu.be/{{ np.video_id }}" target="_blank" rel="noopener noreferrer" aria-label="Now playing on YouTube: {{ np.title }} by {{ np.artist }}">
-  <img class="now-playing__art" src="https://img.youtube.com/vi/{{ np.video_id }}/mqdefault.jpg" alt="" loading="lazy" width="108" height="61">
-  <span class="now-playing__body">
-    <span class="now-playing__label"><span class="now-playing__eq" aria-hidden="true"><i></i><i></i><i></i></span>Now playing</span>
-    <span class="now-playing__title">{{ np.title }}</span>
-    <span class="now-playing__artist">{{ np.artist }}</span>
-  </span>
+<a class="lofi-egg" href="/lofi-lounge/" aria-label="Enter the lofi lounge">
+  <span class="lofi-egg__eq" aria-hidden="true"><i></i><i></i><i></i></span>
+  <span class="lofi-egg__text">still looping lofi</span>
+  <span class="lofi-egg__arrow" aria-hidden="true">&rarr;</span>
 </a>
 

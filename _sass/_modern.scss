@@ -331,86 +331,57 @@ tbody tr:nth-child(2n) { background: var(--bg-elev); }
 .page__content form input[type="submit"]:hover { background: var(--accent-hover); }
 
 /* --------------------------------------------------------------------------
-   "Now playing" card -- the current lofi track, links out to YouTube.
-   Static + feather-light (no iframe, no cookies); content comes from
-   _data/nowplaying.yml. Inherits the design tokens so it auto-themes.
+   Lofi lounge easter egg -- a faint animated waveform at the foot of About
+   that whispers a link to the lounge (/lofi-lounge/). Sits quiet and muted,
+   then lights up to the accent on hover/focus. Replaced the old per-song
+   "now playing" card; the whole collection now lives in the lounge.
    -------------------------------------------------------------------------- */
-.now-playing {
-  display: flex;
-  align-items: center;
-  gap: 0.9em;
-  max-width: 23rem;
-  margin: 2.25em 0 0;
-  padding: 0.6em;
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  background: var(--bg-elev);
-  color: var(--text);
-  text-decoration: none !important;   /* override .page__content a underline */
-  transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
-}
-.now-playing:hover {
-  border-color: var(--accent);
-  transform: translateY(-1px);
-  box-shadow: var(--shadow);
-}
-.now-playing__art {
-  flex: 0 0 auto;
-  width: 108px;
-  height: 61px;
-  object-fit: cover;
-  border-radius: 8px;
-  display: block;
-}
-.now-playing__body {
-  display: flex;
-  flex-direction: column;
-  gap: 0.1em;
-  min-width: 0;   /* let the text ellipsis instead of overflowing the card */
-}
-.now-playing__label {
+.lofi-egg {
   display: inline-flex;
   align-items: center;
   gap: 0.5em;
-  font-size: 0.68em;
-  font-weight: 600;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
+  margin: 2.25em 0 0;
+  font-size: 0.8em;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+  text-decoration: none !important;   /* override .page__content a underline */
+  opacity: 0.55;
+  transition: opacity 0.2s ease, color 0.2s ease, transform 0.2s ease;
+}
+.lofi-egg:hover,
+.lofi-egg:focus-visible {
+  opacity: 1;
   color: var(--accent);
+  transform: translateY(-1px);
 }
-.now-playing__title,
-.now-playing__artist {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-.now-playing__title { font-weight: 600; line-height: 1.35; }
-.now-playing__artist { font-size: 0.9em; color: var(--text-muted); }
+.lofi-egg__arrow { transition: transform 0.2s ease; }
+.lofi-egg:hover .lofi-egg__arrow,
+.lofi-egg:focus-visible .lofi-egg__arrow { transform: translateX(3px); }
 
-/* Little animated equalizer -- the "it's live" signal. */
-.now-playing__eq {
+/* the live equalizer -- muted by default, follows the text to accent on hover. */
+.lofi-egg__eq {
   display: inline-flex;
   align-items: flex-end;
   gap: 2px;
-  width: 0.8em;
-  height: 0.8em;
+  width: 0.9em;
+  height: 0.9em;
 }
-.now-playing__eq i {
+.lofi-egg__eq i {
   flex: 1;
   height: 100%;
-  background: var(--accent);
+  background: currentColor;
   border-radius: 1px;
   transform-origin: bottom;
-  animation: np-eq 0.9s ease-in-out infinite;
+  animation: lofi-eq 0.9s ease-in-out infinite;
 }
-.now-playing__eq i:nth-child(2) { animation-delay: 0.3s; }
-.now-playing__eq i:nth-child(3) { animation-delay: 0.6s; }
-@keyframes np-eq {
+.lofi-egg__eq i:nth-child(2) { animation-delay: 0.3s; }
+.lofi-egg__eq i:nth-child(3) { animation-delay: 0.6s; }
+@keyframes lofi-eq {
   0%, 100% { transform: scaleY(0.3); }
   50%      { transform: scaleY(1); }
 }
 @media (prefers-reduced-motion: reduce) {
-  .now-playing__eq i { animation: none; transform: scaleY(0.6); }
+  .lofi-egg__eq i { animation: none; transform: scaleY(0.6); }
 }
 
 /* --------------------------------------------------------------------------
