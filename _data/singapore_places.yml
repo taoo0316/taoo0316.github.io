@@ -1,0 +1,40 @@
+# Places I frequented most in my years in Singapore.
+# Rendered as clickable pins on /singapore/ (see assets/js/singapore-map.js).
+# Coordinates verified against Wikidata / official geocodes.
+# Edit blurbs freely — no code changes needed.
+
+- name: "NUS High School of Math and Science"
+  chapter: "First landing"
+  lat: 1.306911
+  lng: 103.769356
+  description: >-
+    The first place Singapore ever felt like home. I arrived as a boarding
+    student, a long way from where I started, and this is where a nervous
+    newcomer slowly found his footing on the island.
+
+- name: "Hwa Chong Institution"
+  chapter: "Junior college"
+  lat: 1.324290
+  lng: 103.805479
+  description: >-
+    My two years of junior college here are the ones I return to most fondly —
+    the friendships forged, the impossible timetables, and that particular
+    teenage certainty that anything was possible.
+
+- name: "Yale-NUS College"
+  chapter: "University"
+  lat: 1.307210
+  lng: 103.772560
+  description: >-
+    My university, and the place I hold dearest. A small, bold liberal-arts
+    experiment that rewired how I think and who I became. It closed its doors
+    in 2025, which only makes the memory more precious.
+
+- name: "Duke-NUS Medical School"
+  chapter: "First job"
+  lat: 1.281207
+  lng: 103.834122
+  description: >-
+    My first job after graduation, and where I got my first real taste of
+    working life. This is where being a student quietly gave way to being a
+    working adult.
